@@ -11,8 +11,6 @@
 # - No se debe usar shingles
 #
 
-import logging
-
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 
