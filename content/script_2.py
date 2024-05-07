@@ -41,7 +41,16 @@ def main():
 
         # Realizar la búsqueda en Elasticsearch
         #
-        results = es.search(index="cisi", query={"match": {"text": query_text}}, size=100)
+        results = es.search(
+            index="cisi",
+            query={
+                "match": {
+                    "text": query_text
+                }
+            },
+            size=100
+        )
+        
         documents = results['hits']['hits']
         
         # Recolectar los IDs de los documentos para el run
@@ -63,9 +72,6 @@ def main():
     print(fin - inicio)
 
 def parse_query(query_text):
-    """
-    Extrae y prepara el texto de la consulta del contenido del archivo.
-    """
     lines = query_text.splitlines()
     query_content = ""
     for line in lines:

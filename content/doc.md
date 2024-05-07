@@ -131,6 +131,28 @@ Script Python para procesar la lista de consultas y generar listas de documentos
 
 ## Contenido
 
+Dado que ElasticSearch puede devolver hasta 10,000 documentos en una consulta y estamos trabajando con un conjunto de datos relativamente pequeño (CISI), se optó por limitar la cantidad de documentos devueltos a 100 por consulta. Esta decisión tiene como objetivo equilibrar entre obtener suficientes resultados para análisis significativos y evitar un sobrecargo de información que podría diluir la calidad de los resultados en términos de relevancia.
+
+```python
+results = es.search(
+    index="cisi",
+    query={
+        "match": {
+            "text": query_text
+        }
+    },
+    size=100
+)
+```
+
+Las consultas se extraen de un archivo estructurado similar al de los documentos, donde cada consulta está precedida por un identificador .I y seguida por su texto bajo el tag .W. Se decidió procesar y extraer únicamente el texto de las consultas ignorando cualquier otra información que no fuese el contenido textual principal, ya que este es el componente más relevante para la recuperación de información.
+
+Para facilitar la interoperabilidad y la manipulación posterior de los datos, los resultados de las runs se almacenan en un archivo JSON. Este formato es ampliamente soportado y fácil de integrar con otras herramientas, lo cual es útil para la fase de evaluación con ranx.
+
+La búsqueda se realiza contra el campo text de los documentos, definido en la primera parte de la práctica.
+
+Concluyendo esta parte y respecto al uso de ChatGPT podemos decir que le he pedido que me hiciese el parseo de las querys de dandole como ejemplo mi primer script, y también le he preguntado cómo debería almacenar cada run para más tarde parsear con ranx.
+
 # Tercera parte
 
 Documentación correspondiente a esta fase señalando al menos las decisiones tomadas en relación al procesamiento de los juicios de relevancia así como la interpretación de los resultados de la evaluación, las posibles causas para los mismos y las implicaciones para un usuario final.
