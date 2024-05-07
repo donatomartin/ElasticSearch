@@ -41,7 +41,7 @@ def main():
 
         # Realizar la búsqueda en Elasticsearch
         #
-        results = es.search(index="cisi", query={"match": {"text": query_text}})
+        results = es.search(index="cisi", query={"match": {"text": query_text}}, size=100)
         documents = results['hits']['hits']
         
         # Recolectar los IDs de los documentos para el run
