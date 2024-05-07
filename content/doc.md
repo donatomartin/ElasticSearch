@@ -31,7 +31,7 @@ Cada entrada sigue el siguiente formato:
 .I <ID>
 .T <Título>
 .W <Resumen>
-.B <Año de publicación del artículo>
+.B <Bibliografía>
 .A <Lista de autores>
 .X <Lista de referencias cruzadas a otros documentos>
 ```
@@ -41,24 +41,81 @@ Cuando ya es conocido nuestro objetivo, el siguiente paso es determinar qué inf
 El resto; id, título, resúmen, fecha y autores, todo ello nos permitiría localizar el documento por aportar información directamente relacionada con el mismo. Parsearlo ha supuesto un reto mayor del que me esperaba, pese a no ser demasiado complicado, la estructuración en secciones dificulta la lectura por líneas al tener que guardar un contexto de la sección en la que te encuentras y si esta pertenece o no a un nuevo documento. En cualquier caso con este heurístico el trabajo fue realizado correctamente:
 
 ```python
+args = {
+        "settings": {
+            "analysis": {
+                "filter": {
+                    "estematizacion_ingles": {"type": "stemmer", "name": "porter2"},
+                },
+                "analyzer": {
+                    "analizador_personalizado": {
+                        "tokenizer": "standard",
+                        "filter": ["lowercase", "estematizacion_ingles"],
+                    },
+                    "analizador_autores": {
+                        "tokenizer": "standard",
+                        "filter": ["lowercase"]
+                    }
+                },
+            }
+        },
+        "mappings": {
+            "properties": {
+                "text": {
+                    "type": "text",
+                    "analyzer": "analizador_personalizado",
+                    "fielddata": "true",
+                },
+                "author": {
+                    "type": "text",
+                    "analyzer": "analizador_autores",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+            }
+        },
+    }
+```
+
+Tomaremos dos campos, texto y autor, en el segundo caso, debido a que estará mayormente compuesto por nombres propios, no aplicaremos stemming. Tampoco aplicaremos fielddata, ya que si queremos hacer agregaciones, el subcampo keyword nos permitirá hacer ordenación y agregaciones de manera más eficiente en términos de memoria.
+
+```python
 for line in lines:
 
-    if line.startswith('.T'):
-        current_section = 'title'
+    if line.startswith('.T'): 
+        current_section = 'text'
+        continue
     elif line.startswith('.W'):
         current_section = 'text'
+        continue
     elif line.startswith('.B'):
-        current_section = 'created_at'
+        current_section = 'text'
+        continue
     elif line.startswith('.A'):
         current_section = 'author'
+        continue
     elif line.startswith('.X'):
         current_section = None
+        continue
     
     if current_section:
         doc[current_section] = doc.get(current_section, "") + line.strip() + " "
 ```
 
-Consideramos X e I secciones nulas pues I nos permite dividir todo el fichero en las diferentes entradas y X no tiene ser indexado como propósito. Más allá de eso simplemente se añade a un diccionario cada una de las líneas en función de la sección en la que nos encontremos, si la sección es nula, será ignorada.
+Consideramos X e I secciones nulas pues I nos permite dividir todo el fichero en las diferentes entradas y X no tiene ser indexado como propósito. Más allá de eso simplemente se añade a un diccionario cada una de las líneas en función de la sección en la que nos encontremos, si la sección es nula, será ignorada. 
+
+También cabe recalcar que el título, así como la bibliografía, son añadidos al texto para mayor facilidad de recuperación de la información y es que estas secciones en concreto no tendrían demasiado interés para analizar por separado. Todo esto lo aclaro porque en primera instancia barajé tener cada uno de los campos separados.
+
+El campo autor en cambio, considero que sí debería tener su propio campo ya que puede resultar interesante buscar específicamente por autor.
+
+El algoritmo de stemming utilizado, porter2 es adecuado por su balance entre precisión y efectividad del sistema de búsqueda. Reduce correctamente las palabras a sus raíces facilitando una búsqueda más amplia y relevante en ElasticSearch, además de que este lo soporta nativamente. Existen otras alternativas, otros stemmers como Lancaster pueden ser útiles para textos con restricciones de longitud.
+
+Se utiliza en el analizador personalizado del texto un filtro lowercase para asegurarnos que todo esté en minúscula dando como resultado un índice que no sea case sensitive.
+
+Con esto concluye la documentación de la primera parte. Respecto al uso de ChatGPT general, podemos declarar que ha sido utilizado para arreglarme un bug a la hora de parsear el código, denotando mi oxidado python, así como en la búsqueda de información sobre la adecuación del stemming porter2 o del subcampo keyword.
 
 # Segunda parte
 

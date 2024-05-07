@@ -1,0 +1,5602 @@
+[
+    {
+        "query_id": "1",
+        "doc_id": "429",
+        "score": 29.489449
+    },
+    {
+        "query_id": "1",
+        "doc_id": "722",
+        "score": 27.108238
+    },
+    {
+        "query_id": "1",
+        "doc_id": "1009",
+        "score": 26.222795
+    },
+    {
+        "query_id": "1",
+        "doc_id": "1090",
+        "score": 24.989069
+    },
+    {
+        "query_id": "1",
+        "doc_id": "928",
+        "score": 24.893404
+    },
+    {
+        "query_id": "1",
+        "doc_id": "76",
+        "score": 24.569662
+    },
+    {
+        "query_id": "1",
+        "doc_id": "1299",
+        "score": 24.481731
+    },
+    {
+        "query_id": "1",
+        "doc_id": "65",
+        "score": 24.459736
+    },
+    {
+        "query_id": "1",
+        "doc_id": "759",
+        "score": 24.445974
+    },
+    {
+        "query_id": "1",
+        "doc_id": "1265",
+        "score": 24.314392
+    },
+    {
+        "query_id": "2",
+        "doc_id": "797",
+        "score": 18.060442
+    },
+    {
+        "query_id": "2",
+        "doc_id": "309",
+        "score": 17.816404
+    },
+    {
+        "query_id": "2",
+        "doc_id": "488",
+        "score": 17.090893
+    },
+    {
+        "query_id": "2",
+        "doc_id": "790",
+        "score": 16.865786
+    },
+    {
+        "query_id": "2",
+        "doc_id": "1399",
+        "score": 16.643055
+    },
+    {
+        "query_id": "2",
+        "doc_id": "445",
+        "score": 16.588856
+    },
+    {
+        "query_id": "2",
+        "doc_id": "526",
+        "score": 16.398853
+    },
+    {
+        "query_id": "2",
+        "doc_id": "597",
+        "score": 15.987057
+    },
+    {
+        "query_id": "2",
+        "doc_id": "611",
+        "score": 15.825902
+    },
+    {
+        "query_id": "2",
+        "doc_id": "562",
+        "score": 15.629635
+    },
+    {
+        "query_id": "3",
+        "doc_id": "1181",
+        "score": 15.151081
+    },
+    {
+        "query_id": "3",
+        "doc_id": "540",
+        "score": 12.196286
+    },
+    {
+        "query_id": "3",
+        "doc_id": "469",
+        "score": 10.697885
+    },
+    {
+        "query_id": "3",
+        "doc_id": "1235",
+        "score": 10.513887
+    },
+    {
+        "query_id": "3",
+        "doc_id": "445",
+        "score": 10.084085
+    },
+    {
+        "query_id": "3",
+        "doc_id": "160",
+        "score": 9.83581
+    },
+    {
+        "query_id": "3",
+        "doc_id": "168",
+        "score": 9.679278
+    },
+    {
+        "query_id": "3",
+        "doc_id": "1266",
+        "score": 9.508895
+    },
+    {
+        "query_id": "3",
+        "doc_id": "398",
+        "score": 9.461734
+    },
+    {
+        "query_id": "3",
+        "doc_id": "1314",
+        "score": 9.456805
+    },
+    {
+        "query_id": "4",
+        "doc_id": "420",
+        "score": 15.129201
+    },
+    {
+        "query_id": "4",
+        "doc_id": "746",
+        "score": 15.042503
+    },
+    {
+        "query_id": "4",
+        "doc_id": "601",
+        "score": 14.923867
+    },
+    {
+        "query_id": "4",
+        "doc_id": "179",
+        "score": 14.897791
+    },
+    {
+        "query_id": "4",
+        "doc_id": "565",
+        "score": 14.823483
+    },
+    {
+        "query_id": "4",
+        "doc_id": "77",
+        "score": 14.618961
+    },
+    {
+        "query_id": "4",
+        "doc_id": "530",
+        "score": 14.442404
+    },
+    {
+        "query_id": "4",
+        "doc_id": "175",
+        "score": 14.405094
+    },
+    {
+        "query_id": "4",
+        "doc_id": "790",
+        "score": 14.016591
+    },
+    {
+        "query_id": "4",
+        "doc_id": "320",
+        "score": 13.755801
+    },
+    {
+        "query_id": "5",
+        "doc_id": "888",
+        "score": 20.060015
+    },
+    {
+        "query_id": "5",
+        "doc_id": "664",
+        "score": 19.69275
+    },
+    {
+        "query_id": "5",
+        "doc_id": "828",
+        "score": 19.140396
+    },
+    {
+        "query_id": "5",
+        "doc_id": "656",
+        "score": 19.097515
+    },
+    {
+        "query_id": "5",
+        "doc_id": "314",
+        "score": 18.430239
+    },
+    {
+        "query_id": "5",
+        "doc_id": "1361",
+        "score": 18.080917
+    },
+    {
+        "query_id": "5",
+        "doc_id": "560",
+        "score": 17.74041
+    },
+    {
+        "query_id": "5",
+        "doc_id": "257",
+        "score": 17.664024
+    },
+    {
+        "query_id": "5",
+        "doc_id": "927",
+        "score": 17.138878
+    },
+    {
+        "query_id": "5",
+        "doc_id": "398",
+        "score": 17.13103
+    },
+    {
+        "query_id": "6",
+        "doc_id": "652",
+        "score": 17.378105
+    },
+    {
+        "query_id": "6",
+        "doc_id": "398",
+        "score": 16.088074
+    },
+    {
+        "query_id": "6",
+        "doc_id": "96",
+        "score": 15.53167
+    },
+    {
+        "query_id": "6",
+        "doc_id": "1263",
+        "score": 15.44096
+    },
+    {
+        "query_id": "6",
+        "doc_id": "545",
+        "score": 15.184576
+    },
+    {
+        "query_id": "6",
+        "doc_id": "386",
+        "score": 15.105964
+    },
+    {
+        "query_id": "6",
+        "doc_id": "1045",
+        "score": 14.924075
+    },
+    {
+        "query_id": "6",
+        "doc_id": "1077",
+        "score": 14.736304
+    },
+    {
+        "query_id": "6",
+        "doc_id": "542",
+        "score": 14.152609
+    },
+    {
+        "query_id": "6",
+        "doc_id": "627",
+        "score": 13.976434
+    },
+    {
+        "query_id": "7",
+        "doc_id": "420",
+        "score": 26.049042
+    },
+    {
+        "query_id": "7",
+        "doc_id": "507",
+        "score": 21.305138
+    },
+    {
+        "query_id": "7",
+        "doc_id": "530",
+        "score": 20.085964
+    },
+    {
+        "query_id": "7",
+        "doc_id": "1060",
+        "score": 19.80168
+    },
+    {
+        "query_id": "7",
+        "doc_id": "376",
+        "score": 19.464092
+    },
+    {
+        "query_id": "7",
+        "doc_id": "835",
+        "score": 19.170946
+    },
+    {
+        "query_id": "7",
+        "doc_id": "737",
+        "score": 18.82004
+    },
+    {
+        "query_id": "7",
+        "doc_id": "446",
+        "score": 18.74699
+    },
+    {
+        "query_id": "7",
+        "doc_id": "484",
+        "score": 18.717018
+    },
+    {
+        "query_id": "7",
+        "doc_id": "150",
+        "score": 18.545525
+    },
+    {
+        "query_id": "8",
+        "doc_id": "434",
+        "score": 17.325787
+    },
+    {
+        "query_id": "8",
+        "doc_id": "456",
+        "score": 16.258007
+    },
+    {
+        "query_id": "8",
+        "doc_id": "389",
+        "score": 15.955133
+    },
+    {
+        "query_id": "8",
+        "doc_id": "1124",
+        "score": 15.797216
+    },
+    {
+        "query_id": "8",
+        "doc_id": "1427",
+        "score": 15.321857
+    },
+    {
+        "query_id": "8",
+        "doc_id": "257",
+        "score": 15.204822
+    },
+    {
+        "query_id": "8",
+        "doc_id": "159",
+        "score": 14.8113165
+    },
+    {
+        "query_id": "8",
+        "doc_id": "640",
+        "score": 14.488119
+    },
+    {
+        "query_id": "8",
+        "doc_id": "796",
+        "score": 14.48247
+    },
+    {
+        "query_id": "8",
+        "doc_id": "1443",
+        "score": 14.44083
+    },
+    {
+        "query_id": "9",
+        "doc_id": "1120",
+        "score": 18.362669
+    },
+    {
+        "query_id": "9",
+        "doc_id": "571",
+        "score": 17.182442
+    },
+    {
+        "query_id": "9",
+        "doc_id": "565",
+        "score": 15.377932
+    },
+    {
+        "query_id": "9",
+        "doc_id": "175",
+        "score": 14.91902
+    },
+    {
+        "query_id": "9",
+        "doc_id": "71",
+        "score": 14.913591
+    },
+    {
+        "query_id": "9",
+        "doc_id": "17",
+        "score": 14.399216
+    },
+    {
+        "query_id": "9",
+        "doc_id": "483",
+        "score": 13.872377
+    },
+    {
+        "query_id": "9",
+        "doc_id": "179",
+        "score": 13.854495
+    },
+    {
+        "query_id": "9",
+        "doc_id": "790",
+        "score": 13.804396
+    },
+    {
+        "query_id": "9",
+        "doc_id": "1294",
+        "score": 13.714128
+    },
+    {
+        "query_id": "10",
+        "doc_id": "1385",
+        "score": 13.2733755
+    },
+    {
+        "query_id": "10",
+        "doc_id": "1224",
+        "score": 13.261512
+    },
+    {
+        "query_id": "10",
+        "doc_id": "536",
+        "score": 13.046325
+    },
+    {
+        "query_id": "10",
+        "doc_id": "1054",
+        "score": 11.675907
+    },
+    {
+        "query_id": "10",
+        "doc_id": "315",
+        "score": 10.959388
+    },
+    {
+        "query_id": "10",
+        "doc_id": "829",
+        "score": 10.734082
+    },
+    {
+        "query_id": "10",
+        "doc_id": "445",
+        "score": 10.722087
+    },
+    {
+        "query_id": "10",
+        "doc_id": "1173",
+        "score": 10.428408
+    },
+    {
+        "query_id": "10",
+        "doc_id": "1244",
+        "score": 10.416826
+    },
+    {
+        "query_id": "10",
+        "doc_id": "1411",
+        "score": 10.264466
+    },
+    {
+        "query_id": "11",
+        "doc_id": "690",
+        "score": 12.829241
+    },
+    {
+        "query_id": "11",
+        "doc_id": "147",
+        "score": 11.4408865
+    },
+    {
+        "query_id": "11",
+        "doc_id": "474",
+        "score": 11.385868
+    },
+    {
+        "query_id": "11",
+        "doc_id": "965",
+        "score": 11.158419
+    },
+    {
+        "query_id": "11",
+        "doc_id": "398",
+        "score": 11.055091
+    },
+    {
+        "query_id": "11",
+        "doc_id": "560",
+        "score": 10.826587
+    },
+    {
+        "query_id": "11",
+        "doc_id": "1089",
+        "score": 10.4324875
+    },
+    {
+        "query_id": "11",
+        "doc_id": "1358",
+        "score": 10.349219
+    },
+    {
+        "query_id": "11",
+        "doc_id": "575",
+        "score": 10.24167
+    },
+    {
+        "query_id": "11",
+        "doc_id": "525",
+        "score": 10.191934
+    },
+    {
+        "query_id": "12",
+        "doc_id": "686",
+        "score": 16.566826
+    },
+    {
+        "query_id": "12",
+        "doc_id": "1167",
+        "score": 13.024351
+    },
+    {
+        "query_id": "12",
+        "doc_id": "725",
+        "score": 12.894382
+    },
+    {
+        "query_id": "12",
+        "doc_id": "543",
+        "score": 11.791175
+    },
+    {
+        "query_id": "12",
+        "doc_id": "552",
+        "score": 11.786844
+    },
+    {
+        "query_id": "12",
+        "doc_id": "1182",
+        "score": 11.732341
+    },
+    {
+        "query_id": "12",
+        "doc_id": "41",
+        "score": 11.711918
+    },
+    {
+        "query_id": "12",
+        "doc_id": "1209",
+        "score": 11.23872
+    },
+    {
+        "query_id": "12",
+        "doc_id": "1432",
+        "score": 11.096037
+    },
+    {
+        "query_id": "12",
+        "doc_id": "1108",
+        "score": 11.08985
+    },
+    {
+        "query_id": "13",
+        "doc_id": "611",
+        "score": 19.202251
+    },
+    {
+        "query_id": "13",
+        "doc_id": "866",
+        "score": 15.776229
+    },
+    {
+        "query_id": "13",
+        "doc_id": "565",
+        "score": 15.232076
+    },
+    {
+        "query_id": "13",
+        "doc_id": "1375",
+        "score": 14.245134
+    },
+    {
+        "query_id": "13",
+        "doc_id": "889",
+        "score": 13.905947
+    },
+    {
+        "query_id": "13",
+        "doc_id": "731",
+        "score": 13.899586
+    },
+    {
+        "query_id": "13",
+        "doc_id": "1120",
+        "score": 13.751442
+    },
+    {
+        "query_id": "13",
+        "doc_id": "59",
+        "score": 13.456356
+    },
+    {
+        "query_id": "13",
+        "doc_id": "1130",
+        "score": 13.372858
+    },
+    {
+        "query_id": "13",
+        "doc_id": "486",
+        "score": 13.05546
+    },
+    {
+        "query_id": "14",
+        "doc_id": "24",
+        "score": 9.595083
+    },
+    {
+        "query_id": "14",
+        "doc_id": "790",
+        "score": 9.317992
+    },
+    {
+        "query_id": "14",
+        "doc_id": "1294",
+        "score": 9.157845
+    },
+    {
+        "query_id": "14",
+        "doc_id": "72",
+        "score": 9.032429
+    },
+    {
+        "query_id": "14",
+        "doc_id": "1144",
+        "score": 8.355471
+    },
+    {
+        "query_id": "14",
+        "doc_id": "907",
+        "score": 8.007471
+    },
+    {
+        "query_id": "14",
+        "doc_id": "663",
+        "score": 7.919347
+    },
+    {
+        "query_id": "14",
+        "doc_id": "1388",
+        "score": 7.899438
+    },
+    {
+        "query_id": "14",
+        "doc_id": "1147",
+        "score": 7.66091
+    },
+    {
+        "query_id": "14",
+        "doc_id": "401",
+        "score": 7.6163807
+    },
+    {
+        "query_id": "15",
+        "doc_id": "255",
+        "score": 22.441671
+    },
+    {
+        "query_id": "15",
+        "doc_id": "860",
+        "score": 22.21664
+    },
+    {
+        "query_id": "15",
+        "doc_id": "515",
+        "score": 21.184278
+    },
+    {
+        "query_id": "15",
+        "doc_id": "6",
+        "score": 20.465612
+    },
+    {
+        "query_id": "15",
+        "doc_id": "314",
+        "score": 17.929113
+    },
+    {
+        "query_id": "15",
+        "doc_id": "177",
+        "score": 17.843527
+    },
+    {
+        "query_id": "15",
+        "doc_id": "490",
+        "score": 17.759647
+    },
+    {
+        "query_id": "15",
+        "doc_id": "17",
+        "score": 17.7301
+    },
+    {
+        "query_id": "15",
+        "doc_id": "591",
+        "score": 17.58621
+    },
+    {
+        "query_id": "15",
+        "doc_id": "364",
+        "score": 17.337234
+    },
+    {
+        "query_id": "16",
+        "doc_id": "1307",
+        "score": 16.453066
+    },
+    {
+        "query_id": "16",
+        "doc_id": "883",
+        "score": 15.629596
+    },
+    {
+        "query_id": "16",
+        "doc_id": "716",
+        "score": 15.412965
+    },
+    {
+        "query_id": "16",
+        "doc_id": "24",
+        "score": 14.817675
+    },
+    {
+        "query_id": "16",
+        "doc_id": "389",
+        "score": 14.313946
+    },
+    {
+        "query_id": "16",
+        "doc_id": "131",
+        "score": 14.18747
+    },
+    {
+        "query_id": "16",
+        "doc_id": "828",
+        "score": 14.077195
+    },
+    {
+        "query_id": "16",
+        "doc_id": "364",
+        "score": 13.894846
+    },
+    {
+        "query_id": "16",
+        "doc_id": "888",
+        "score": 13.499839
+    },
+    {
+        "query_id": "16",
+        "doc_id": "1051",
+        "score": 13.4665575
+    },
+    {
+        "query_id": "17",
+        "doc_id": "252",
+        "score": 18.285477
+    },
+    {
+        "query_id": "17",
+        "doc_id": "1404",
+        "score": 11.770616
+    },
+    {
+        "query_id": "17",
+        "doc_id": "594",
+        "score": 10.422452
+    },
+    {
+        "query_id": "17",
+        "doc_id": "520",
+        "score": 10.1429825
+    },
+    {
+        "query_id": "17",
+        "doc_id": "608",
+        "score": 10.054629
+    },
+    {
+        "query_id": "17",
+        "doc_id": "773",
+        "score": 10.015534
+    },
+    {
+        "query_id": "17",
+        "doc_id": "528",
+        "score": 9.723544
+    },
+    {
+        "query_id": "17",
+        "doc_id": "512",
+        "score": 9.616021
+    },
+    {
+        "query_id": "17",
+        "doc_id": "967",
+        "score": 9.6117735
+    },
+    {
+        "query_id": "17",
+        "doc_id": "319",
+        "score": 9.512987
+    },
+    {
+        "query_id": "18",
+        "doc_id": "668",
+        "score": 35.932693
+    },
+    {
+        "query_id": "18",
+        "doc_id": "669",
+        "score": 26.333683
+    },
+    {
+        "query_id": "18",
+        "doc_id": "705",
+        "score": 23.904741
+    },
+    {
+        "query_id": "18",
+        "doc_id": "1452",
+        "score": 23.780935
+    },
+    {
+        "query_id": "18",
+        "doc_id": "175",
+        "score": 23.29214
+    },
+    {
+        "query_id": "18",
+        "doc_id": "1092",
+        "score": 22.354439
+    },
+    {
+        "query_id": "18",
+        "doc_id": "671",
+        "score": 21.609661
+    },
+    {
+        "query_id": "18",
+        "doc_id": "1261",
+        "score": 21.605679
+    },
+    {
+        "query_id": "18",
+        "doc_id": "694",
+        "score": 21.396282
+    },
+    {
+        "query_id": "18",
+        "doc_id": "569",
+        "score": 19.968866
+    },
+    {
+        "query_id": "19",
+        "doc_id": "179",
+        "score": 17.110891
+    },
+    {
+        "query_id": "19",
+        "doc_id": "527",
+        "score": 16.961067
+    },
+    {
+        "query_id": "19",
+        "doc_id": "175",
+        "score": 16.93702
+    },
+    {
+        "query_id": "19",
+        "doc_id": "252",
+        "score": 16.518414
+    },
+    {
+        "query_id": "19",
+        "doc_id": "689",
+        "score": 16.477629
+    },
+    {
+        "query_id": "19",
+        "doc_id": "1327",
+        "score": 15.798519
+    },
+    {
+        "query_id": "19",
+        "doc_id": "483",
+        "score": 15.711467
+    },
+    {
+        "query_id": "19",
+        "doc_id": "487",
+        "score": 15.366206
+    },
+    {
+        "query_id": "19",
+        "doc_id": "810",
+        "score": 15.083031
+    },
+    {
+        "query_id": "19",
+        "doc_id": "862",
+        "score": 14.992393
+    },
+    {
+        "query_id": "20",
+        "doc_id": "287",
+        "score": 10.024481
+    },
+    {
+        "query_id": "20",
+        "doc_id": "336",
+        "score": 8.993546
+    },
+    {
+        "query_id": "20",
+        "doc_id": "180",
+        "score": 8.882338
+    },
+    {
+        "query_id": "20",
+        "doc_id": "990",
+        "score": 8.52518
+    },
+    {
+        "query_id": "20",
+        "doc_id": "406",
+        "score": 8.519264
+    },
+    {
+        "query_id": "20",
+        "doc_id": "916",
+        "score": 8.032829
+    },
+    {
+        "query_id": "20",
+        "doc_id": "177",
+        "score": 7.9318833
+    },
+    {
+        "query_id": "20",
+        "doc_id": "1139",
+        "score": 7.7939816
+    },
+    {
+        "query_id": "20",
+        "doc_id": "865",
+        "score": 7.64777
+    },
+    {
+        "query_id": "20",
+        "doc_id": "572",
+        "score": 7.635274
+    },
+    {
+        "query_id": "21",
+        "doc_id": "216",
+        "score": 10.838919
+    },
+    {
+        "query_id": "21",
+        "doc_id": "339",
+        "score": 9.660511
+    },
+    {
+        "query_id": "21",
+        "doc_id": "896",
+        "score": 8.639838
+    },
+    {
+        "query_id": "21",
+        "doc_id": "475",
+        "score": 8.352182
+    },
+    {
+        "query_id": "21",
+        "doc_id": "131",
+        "score": 7.9421005
+    },
+    {
+        "query_id": "21",
+        "doc_id": "186",
+        "score": 7.7133536
+    },
+    {
+        "query_id": "21",
+        "doc_id": "137",
+        "score": 7.655625
+    },
+    {
+        "query_id": "21",
+        "doc_id": "721",
+        "score": 7.6167974
+    },
+    {
+        "query_id": "21",
+        "doc_id": "1206",
+        "score": 7.6131897
+    },
+    {
+        "query_id": "21",
+        "doc_id": "373",
+        "score": 7.597102
+    },
+    {
+        "query_id": "22",
+        "doc_id": "1114",
+        "score": 8.982206
+    },
+    {
+        "query_id": "22",
+        "doc_id": "216",
+        "score": 8.939155
+    },
+    {
+        "query_id": "22",
+        "doc_id": "917",
+        "score": 8.8385935
+    },
+    {
+        "query_id": "22",
+        "doc_id": "410",
+        "score": 8.37214
+    },
+    {
+        "query_id": "22",
+        "doc_id": "136",
+        "score": 8.3604555
+    },
+    {
+        "query_id": "22",
+        "doc_id": "1027",
+        "score": 8.252484
+    },
+    {
+        "query_id": "22",
+        "doc_id": "215",
+        "score": 7.905057
+    },
+    {
+        "query_id": "22",
+        "doc_id": "986",
+        "score": 7.635509
+    },
+    {
+        "query_id": "22",
+        "doc_id": "970",
+        "score": 7.454027
+    },
+    {
+        "query_id": "22",
+        "doc_id": "336",
+        "score": 7.2173142
+    },
+    {
+        "query_id": "23",
+        "doc_id": "990",
+        "score": 16.013521
+    },
+    {
+        "query_id": "23",
+        "doc_id": "406",
+        "score": 13.718745
+    },
+    {
+        "query_id": "23",
+        "doc_id": "916",
+        "score": 13.108162
+    },
+    {
+        "query_id": "23",
+        "doc_id": "874",
+        "score": 12.992867
+    },
+    {
+        "query_id": "23",
+        "doc_id": "177",
+        "score": 12.773922
+    },
+    {
+        "query_id": "23",
+        "doc_id": "1114",
+        "score": 12.64533
+    },
+    {
+        "query_id": "23",
+        "doc_id": "865",
+        "score": 12.443699
+    },
+    {
+        "query_id": "23",
+        "doc_id": "979",
+        "score": 12.337995
+    },
+    {
+        "query_id": "23",
+        "doc_id": "202",
+        "score": 12.307194
+    },
+    {
+        "query_id": "23",
+        "doc_id": "917",
+        "score": 11.794408
+    },
+    {
+        "query_id": "24",
+        "doc_id": "896",
+        "score": 33.282078
+    },
+    {
+        "query_id": "24",
+        "doc_id": "924",
+        "score": 32.623592
+    },
+    {
+        "query_id": "24",
+        "doc_id": "1423",
+        "score": 25.490587
+    },
+    {
+        "query_id": "24",
+        "doc_id": "934",
+        "score": 24.465576
+    },
+    {
+        "query_id": "24",
+        "doc_id": "923",
+        "score": 23.47382
+    },
+    {
+        "query_id": "24",
+        "doc_id": "1166",
+        "score": 22.365042
+    },
+    {
+        "query_id": "24",
+        "doc_id": "648",
+        "score": 21.7581
+    },
+    {
+        "query_id": "24",
+        "doc_id": "1325",
+        "score": 21.393847
+    },
+    {
+        "query_id": "24",
+        "doc_id": "692",
+        "score": 21.391687
+    },
+    {
+        "query_id": "24",
+        "doc_id": "1007",
+        "score": 21.14424
+    },
+    {
+        "query_id": "25",
+        "doc_id": "1284",
+        "score": 13.6579075
+    },
+    {
+        "query_id": "25",
+        "doc_id": "421",
+        "score": 11.085227
+    },
+    {
+        "query_id": "25",
+        "doc_id": "1435",
+        "score": 10.049733
+    },
+    {
+        "query_id": "25",
+        "doc_id": "440",
+        "score": 9.936102
+    },
+    {
+        "query_id": "25",
+        "doc_id": "1289",
+        "score": 9.709806
+    },
+    {
+        "query_id": "25",
+        "doc_id": "873",
+        "score": 8.962233
+    },
+    {
+        "query_id": "25",
+        "doc_id": "1231",
+        "score": 8.585625
+    },
+    {
+        "query_id": "25",
+        "doc_id": "611",
+        "score": 8.514324
+    },
+    {
+        "query_id": "25",
+        "doc_id": "49",
+        "score": 8.5074835
+    },
+    {
+        "query_id": "25",
+        "doc_id": "323",
+        "score": 8.358873
+    },
+    {
+        "query_id": "26",
+        "doc_id": "865",
+        "score": 15.734126
+    },
+    {
+        "query_id": "26",
+        "doc_id": "979",
+        "score": 15.711464
+    },
+    {
+        "query_id": "26",
+        "doc_id": "860",
+        "score": 15.289227
+    },
+    {
+        "query_id": "26",
+        "doc_id": "639",
+        "score": 14.290286
+    },
+    {
+        "query_id": "26",
+        "doc_id": "690",
+        "score": 13.677052
+    },
+    {
+        "query_id": "26",
+        "doc_id": "281",
+        "score": 13.6420555
+    },
+    {
+        "query_id": "26",
+        "doc_id": "336",
+        "score": 13.227135
+    },
+    {
+        "query_id": "26",
+        "doc_id": "490",
+        "score": 13.083621
+    },
+    {
+        "query_id": "26",
+        "doc_id": "615",
+        "score": 12.890752
+    },
+    {
+        "query_id": "26",
+        "doc_id": "849",
+        "score": 12.688943
+    },
+    {
+        "query_id": "27",
+        "doc_id": "1197",
+        "score": 16.441706
+    },
+    {
+        "query_id": "27",
+        "doc_id": "375",
+        "score": 15.769159
+    },
+    {
+        "query_id": "27",
+        "doc_id": "680",
+        "score": 15.72331
+    },
+    {
+        "query_id": "27",
+        "doc_id": "1078",
+        "score": 15.210457
+    },
+    {
+        "query_id": "27",
+        "doc_id": "727",
+        "score": 14.171145
+    },
+    {
+        "query_id": "27",
+        "doc_id": "1293",
+        "score": 14.009506
+    },
+    {
+        "query_id": "27",
+        "doc_id": "876",
+        "score": 13.755867
+    },
+    {
+        "query_id": "27",
+        "doc_id": "773",
+        "score": 13.476909
+    },
+    {
+        "query_id": "27",
+        "doc_id": "512",
+        "score": 13.430138
+    },
+    {
+        "query_id": "27",
+        "doc_id": "798",
+        "score": 13.144292
+    },
+    {
+        "query_id": "28",
+        "doc_id": "696",
+        "score": 13.59139
+    },
+    {
+        "query_id": "28",
+        "doc_id": "618",
+        "score": 11.537131
+    },
+    {
+        "query_id": "28",
+        "doc_id": "1460",
+        "score": 10.2036085
+    },
+    {
+        "query_id": "28",
+        "doc_id": "116",
+        "score": 9.65378
+    },
+    {
+        "query_id": "28",
+        "doc_id": "641",
+        "score": 9.513615
+    },
+    {
+        "query_id": "28",
+        "doc_id": "676",
+        "score": 9.281459
+    },
+    {
+        "query_id": "28",
+        "doc_id": "1092",
+        "score": 9.156677
+    },
+    {
+        "query_id": "28",
+        "doc_id": "1120",
+        "score": 8.949681
+    },
+    {
+        "query_id": "28",
+        "doc_id": "156",
+        "score": 8.802527
+    },
+    {
+        "query_id": "28",
+        "doc_id": "1162",
+        "score": 8.565527
+    },
+    {
+        "query_id": "29",
+        "doc_id": "869",
+        "score": 11.450067
+    },
+    {
+        "query_id": "29",
+        "doc_id": "773",
+        "score": 10.072227
+    },
+    {
+        "query_id": "29",
+        "doc_id": "512",
+        "score": 8.72687
+    },
+    {
+        "query_id": "29",
+        "doc_id": "377",
+        "score": 8.680266
+    },
+    {
+        "query_id": "29",
+        "doc_id": "1419",
+        "score": 8.43427
+    },
+    {
+        "query_id": "29",
+        "doc_id": "1197",
+        "score": 7.8785
+    },
+    {
+        "query_id": "29",
+        "doc_id": "74",
+        "score": 7.817226
+    },
+    {
+        "query_id": "29",
+        "doc_id": "390",
+        "score": 7.7182155
+    },
+    {
+        "query_id": "29",
+        "doc_id": "1144",
+        "score": 7.6603584
+    },
+    {
+        "query_id": "29",
+        "doc_id": "1356",
+        "score": 7.4345756
+    },
+    {
+        "query_id": "30",
+        "doc_id": "112",
+        "score": 10.40785
+    },
+    {
+        "query_id": "30",
+        "doc_id": "18",
+        "score": 9.111246
+    },
+    {
+        "query_id": "30",
+        "doc_id": "1078",
+        "score": 9.098373
+    },
+    {
+        "query_id": "30",
+        "doc_id": "440",
+        "score": 9.066816
+    },
+    {
+        "query_id": "30",
+        "doc_id": "225",
+        "score": 8.900919
+    },
+    {
+        "query_id": "30",
+        "doc_id": "1114",
+        "score": 8.696119
+    },
+    {
+        "query_id": "30",
+        "doc_id": "111",
+        "score": 8.69513
+    },
+    {
+        "query_id": "30",
+        "doc_id": "1097",
+        "score": 8.525719
+    },
+    {
+        "query_id": "30",
+        "doc_id": "198",
+        "score": 8.460749
+    },
+    {
+        "query_id": "30",
+        "doc_id": "676",
+        "score": 8.076917
+    },
+    {
+        "query_id": "31",
+        "doc_id": "535",
+        "score": 9.464885
+    },
+    {
+        "query_id": "31",
+        "doc_id": "1370",
+        "score": 9.190339
+    },
+    {
+        "query_id": "31",
+        "doc_id": "1297",
+        "score": 9.160227
+    },
+    {
+        "query_id": "31",
+        "doc_id": "85",
+        "score": 9.137422
+    },
+    {
+        "query_id": "31",
+        "doc_id": "1299",
+        "score": 8.832976
+    },
+    {
+        "query_id": "31",
+        "doc_id": "1208",
+        "score": 8.610211
+    },
+    {
+        "query_id": "31",
+        "doc_id": "1428",
+        "score": 8.524001
+    },
+    {
+        "query_id": "31",
+        "doc_id": "1207",
+        "score": 7.6807475
+    },
+    {
+        "query_id": "31",
+        "doc_id": "545",
+        "score": 7.543681
+    },
+    {
+        "query_id": "31",
+        "doc_id": "313",
+        "score": 7.5020757
+    },
+    {
+        "query_id": "32",
+        "doc_id": "865",
+        "score": 19.378687
+    },
+    {
+        "query_id": "32",
+        "doc_id": "849",
+        "score": 17.189411
+    },
+    {
+        "query_id": "32",
+        "doc_id": "52",
+        "score": 16.956587
+    },
+    {
+        "query_id": "32",
+        "doc_id": "916",
+        "score": 16.876152
+    },
+    {
+        "query_id": "32",
+        "doc_id": "336",
+        "score": 16.439972
+    },
+    {
+        "query_id": "32",
+        "doc_id": "1421",
+        "score": 16.373516
+    },
+    {
+        "query_id": "32",
+        "doc_id": "1118",
+        "score": 16.190516
+    },
+    {
+        "query_id": "32",
+        "doc_id": "820",
+        "score": 15.928736
+    },
+    {
+        "query_id": "32",
+        "doc_id": "17",
+        "score": 15.6859045
+    },
+    {
+        "query_id": "32",
+        "doc_id": "680",
+        "score": 15.620774
+    },
+    {
+        "query_id": "33",
+        "doc_id": "180",
+        "score": 16.648184
+    },
+    {
+        "query_id": "33",
+        "doc_id": "1081",
+        "score": 14.626785
+    },
+    {
+        "query_id": "33",
+        "doc_id": "492",
+        "score": 13.684283
+    },
+    {
+        "query_id": "33",
+        "doc_id": "57",
+        "score": 13.405016
+    },
+    {
+        "query_id": "33",
+        "doc_id": "1365",
+        "score": 13.3310585
+    },
+    {
+        "query_id": "33",
+        "doc_id": "630",
+        "score": 13.191541
+    },
+    {
+        "query_id": "33",
+        "doc_id": "376",
+        "score": 12.774442
+    },
+    {
+        "query_id": "33",
+        "doc_id": "67",
+        "score": 12.768191
+    },
+    {
+        "query_id": "33",
+        "doc_id": "519",
+        "score": 12.27803
+    },
+    {
+        "query_id": "33",
+        "doc_id": "1078",
+        "score": 12.178105
+    },
+    {
+        "query_id": "34",
+        "doc_id": "530",
+        "score": 11.041155
+    },
+    {
+        "query_id": "34",
+        "doc_id": "668",
+        "score": 10.181983
+    },
+    {
+        "query_id": "34",
+        "doc_id": "675",
+        "score": 10.035911
+    },
+    {
+        "query_id": "34",
+        "doc_id": "34",
+        "score": 9.963367
+    },
+    {
+        "query_id": "34",
+        "doc_id": "1391",
+        "score": 9.863352
+    },
+    {
+        "query_id": "34",
+        "doc_id": "773",
+        "score": 9.5579
+    },
+    {
+        "query_id": "34",
+        "doc_id": "680",
+        "score": 9.405904
+    },
+    {
+        "query_id": "34",
+        "doc_id": "1180",
+        "score": 9.356945
+    },
+    {
+        "query_id": "34",
+        "doc_id": "1199",
+        "score": 9.1908655
+    },
+    {
+        "query_id": "34",
+        "doc_id": "521",
+        "score": 9.06639
+    },
+    {
+        "query_id": "35",
+        "doc_id": "375",
+        "score": 13.938717
+    },
+    {
+        "query_id": "35",
+        "doc_id": "385",
+        "score": 13.299268
+    },
+    {
+        "query_id": "35",
+        "doc_id": "286",
+        "score": 13.27947
+    },
+    {
+        "query_id": "35",
+        "doc_id": "18",
+        "score": 13.134039
+    },
+    {
+        "query_id": "35",
+        "doc_id": "1207",
+        "score": 13.074654
+    },
+    {
+        "query_id": "35",
+        "doc_id": "1362",
+        "score": 12.714173
+    },
+    {
+        "query_id": "35",
+        "doc_id": "1145",
+        "score": 12.252629
+    },
+    {
+        "query_id": "35",
+        "doc_id": "910",
+        "score": 11.645828
+    },
+    {
+        "query_id": "35",
+        "doc_id": "130",
+        "score": 11.184815
+    },
+    {
+        "query_id": "35",
+        "doc_id": "466",
+        "score": 11.038225
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1118",
+        "score": 35.34266
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1409",
+        "score": 34.461773
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1129",
+        "score": 33.46535
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1161",
+        "score": 31.68112
+    },
+    {
+        "query_id": "36",
+        "doc_id": "320",
+        "score": 31.570192
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1162",
+        "score": 30.987637
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1164",
+        "score": 30.987637
+    },
+    {
+        "query_id": "36",
+        "doc_id": "760",
+        "score": 30.63989
+    },
+    {
+        "query_id": "36",
+        "doc_id": "174",
+        "score": 27.745213
+    },
+    {
+        "query_id": "36",
+        "doc_id": "1382",
+        "score": 27.719683
+    },
+    {
+        "query_id": "37",
+        "doc_id": "79",
+        "score": 42.845337
+    },
+    {
+        "query_id": "37",
+        "doc_id": "600",
+        "score": 42.225853
+    },
+    {
+        "query_id": "37",
+        "doc_id": "653",
+        "score": 40.571625
+    },
+    {
+        "query_id": "37",
+        "doc_id": "212",
+        "score": 40.3921
+    },
+    {
+        "query_id": "37",
+        "doc_id": "688",
+        "score": 38.99369
+    },
+    {
+        "query_id": "37",
+        "doc_id": "1152",
+        "score": 38.76373
+    },
+    {
+        "query_id": "37",
+        "doc_id": "562",
+        "score": 38.59052
+    },
+    {
+        "query_id": "37",
+        "doc_id": "1392",
+        "score": 37.859066
+    },
+    {
+        "query_id": "37",
+        "doc_id": "894",
+        "score": 37.401787
+    },
+    {
+        "query_id": "37",
+        "doc_id": "661",
+        "score": 37.384777
+    },
+    {
+        "query_id": "38",
+        "doc_id": "1392",
+        "score": 42.368546
+    },
+    {
+        "query_id": "38",
+        "doc_id": "478",
+        "score": 39.17806
+    },
+    {
+        "query_id": "38",
+        "doc_id": "820",
+        "score": 38.449814
+    },
+    {
+        "query_id": "38",
+        "doc_id": "1215",
+        "score": 38.118084
+    },
+    {
+        "query_id": "38",
+        "doc_id": "212",
+        "score": 36.02757
+    },
+    {
+        "query_id": "38",
+        "doc_id": "51",
+        "score": 36.01274
+    },
+    {
+        "query_id": "38",
+        "doc_id": "310",
+        "score": 35.808605
+    },
+    {
+        "query_id": "38",
+        "doc_id": "1366",
+        "score": 35.601215
+    },
+    {
+        "query_id": "38",
+        "doc_id": "445",
+        "score": 35.47011
+    },
+    {
+        "query_id": "38",
+        "doc_id": "600",
+        "score": 35.463474
+    },
+    {
+        "query_id": "39",
+        "doc_id": "896",
+        "score": 58.534073
+    },
+    {
+        "query_id": "39",
+        "doc_id": "216",
+        "score": 37.44835
+    },
+    {
+        "query_id": "39",
+        "doc_id": "1328",
+        "score": 36.38283
+    },
+    {
+        "query_id": "39",
+        "doc_id": "1349",
+        "score": 35.878918
+    },
+    {
+        "query_id": "39",
+        "doc_id": "946",
+        "score": 35.54948
+    },
+    {
+        "query_id": "39",
+        "doc_id": "593",
+        "score": 35.123642
+    },
+    {
+        "query_id": "39",
+        "doc_id": "388",
+        "score": 34.301785
+    },
+    {
+        "query_id": "39",
+        "doc_id": "1205",
+        "score": 33.66227
+    },
+    {
+        "query_id": "39",
+        "doc_id": "17",
+        "score": 33.29156
+    },
+    {
+        "query_id": "39",
+        "doc_id": "612",
+        "score": 33.19191
+    },
+    {
+        "query_id": "40",
+        "doc_id": "17",
+        "score": 40.963547
+    },
+    {
+        "query_id": "40",
+        "doc_id": "1027",
+        "score": 34.313683
+    },
+    {
+        "query_id": "40",
+        "doc_id": "769",
+        "score": 32.873577
+    },
+    {
+        "query_id": "40",
+        "doc_id": "828",
+        "score": 32.36766
+    },
+    {
+        "query_id": "40",
+        "doc_id": "664",
+        "score": 31.425467
+    },
+    {
+        "query_id": "40",
+        "doc_id": "1118",
+        "score": 31.244736
+    },
+    {
+        "query_id": "40",
+        "doc_id": "888",
+        "score": 30.87572
+    },
+    {
+        "query_id": "40",
+        "doc_id": "1443",
+        "score": 30.36458
+    },
+    {
+        "query_id": "40",
+        "doc_id": "816",
+        "score": 30.031824
+    },
+    {
+        "query_id": "40",
+        "doc_id": "138",
+        "score": 29.7745
+    },
+    {
+        "query_id": "41",
+        "doc_id": "388",
+        "score": 48.65131
+    },
+    {
+        "query_id": "41",
+        "doc_id": "62",
+        "score": 36.89163
+    },
+    {
+        "query_id": "41",
+        "doc_id": "798",
+        "score": 36.17177
+    },
+    {
+        "query_id": "41",
+        "doc_id": "848",
+        "score": 35.86665
+    },
+    {
+        "query_id": "41",
+        "doc_id": "61",
+        "score": 34.802124
+    },
+    {
+        "query_id": "41",
+        "doc_id": "86",
+        "score": 33.659515
+    },
+    {
+        "query_id": "41",
+        "doc_id": "825",
+        "score": 32.042255
+    },
+    {
+        "query_id": "41",
+        "doc_id": "872",
+        "score": 31.89685
+    },
+    {
+        "query_id": "41",
+        "doc_id": "1066",
+        "score": 31.508722
+    },
+    {
+        "query_id": "41",
+        "doc_id": "1014",
+        "score": 31.286678
+    },
+    {
+        "query_id": "42",
+        "doc_id": "131",
+        "score": 30.566856
+    },
+    {
+        "query_id": "42",
+        "doc_id": "17",
+        "score": 29.619446
+    },
+    {
+        "query_id": "42",
+        "doc_id": "1179",
+        "score": 29.578285
+    },
+    {
+        "query_id": "42",
+        "doc_id": "259",
+        "score": 28.403069
+    },
+    {
+        "query_id": "42",
+        "doc_id": "896",
+        "score": 28.353138
+    },
+    {
+        "query_id": "42",
+        "doc_id": "254",
+        "score": 28.31228
+    },
+    {
+        "query_id": "42",
+        "doc_id": "413",
+        "score": 28.101791
+    },
+    {
+        "query_id": "42",
+        "doc_id": "320",
+        "score": 28.065115
+    },
+    {
+        "query_id": "42",
+        "doc_id": "459",
+        "score": 27.646526
+    },
+    {
+        "query_id": "42",
+        "doc_id": "123",
+        "score": 27.17864
+    },
+    {
+        "query_id": "43",
+        "doc_id": "419",
+        "score": 31.99852
+    },
+    {
+        "query_id": "43",
+        "doc_id": "477",
+        "score": 30.461807
+    },
+    {
+        "query_id": "43",
+        "doc_id": "388",
+        "score": 29.849987
+    },
+    {
+        "query_id": "43",
+        "doc_id": "722",
+        "score": 29.611221
+    },
+    {
+        "query_id": "43",
+        "doc_id": "1327",
+        "score": 29.520723
+    },
+    {
+        "query_id": "43",
+        "doc_id": "200",
+        "score": 29.478132
+    },
+    {
+        "query_id": "43",
+        "doc_id": "17",
+        "score": 29.36593
+    },
+    {
+        "query_id": "43",
+        "doc_id": "27",
+        "score": 29.304222
+    },
+    {
+        "query_id": "43",
+        "doc_id": "889",
+        "score": 28.921368
+    },
+    {
+        "query_id": "43",
+        "doc_id": "1255",
+        "score": 28.34931
+    },
+    {
+        "query_id": "44",
+        "doc_id": "986",
+        "score": 46.71139
+    },
+    {
+        "query_id": "44",
+        "doc_id": "1335",
+        "score": 45.35108
+    },
+    {
+        "query_id": "44",
+        "doc_id": "770",
+        "score": 42.929363
+    },
+    {
+        "query_id": "44",
+        "doc_id": "977",
+        "score": 42.215797
+    },
+    {
+        "query_id": "44",
+        "doc_id": "1460",
+        "score": 41.86785
+    },
+    {
+        "query_id": "44",
+        "doc_id": "17",
+        "score": 41.27733
+    },
+    {
+        "query_id": "44",
+        "doc_id": "691",
+        "score": 41.023846
+    },
+    {
+        "query_id": "44",
+        "doc_id": "821",
+        "score": 38.366707
+    },
+    {
+        "query_id": "44",
+        "doc_id": "588",
+        "score": 37.817005
+    },
+    {
+        "query_id": "44",
+        "doc_id": "1210",
+        "score": 37.53808
+    },
+    {
+        "query_id": "45",
+        "doc_id": "177",
+        "score": 52.524273
+    },
+    {
+        "query_id": "45",
+        "doc_id": "849",
+        "score": 49.57473
+    },
+    {
+        "query_id": "45",
+        "doc_id": "1212",
+        "score": 49.552586
+    },
+    {
+        "query_id": "45",
+        "doc_id": "336",
+        "score": 49.00845
+    },
+    {
+        "query_id": "45",
+        "doc_id": "860",
+        "score": 48.112125
+    },
+    {
+        "query_id": "45",
+        "doc_id": "406",
+        "score": 47.28018
+    },
+    {
+        "query_id": "45",
+        "doc_id": "136",
+        "score": 45.23812
+    },
+    {
+        "query_id": "45",
+        "doc_id": "6",
+        "score": 44.85534
+    },
+    {
+        "query_id": "45",
+        "doc_id": "281",
+        "score": 44.700855
+    },
+    {
+        "query_id": "45",
+        "doc_id": "916",
+        "score": 44.01941
+    },
+    {
+        "query_id": "46",
+        "doc_id": "352",
+        "score": 58.48504
+    },
+    {
+        "query_id": "46",
+        "doc_id": "888",
+        "score": 57.44816
+    },
+    {
+        "query_id": "46",
+        "doc_id": "922",
+        "score": 55.815277
+    },
+    {
+        "query_id": "46",
+        "doc_id": "376",
+        "score": 52.74113
+    },
+    {
+        "query_id": "46",
+        "doc_id": "842",
+        "score": 50.88168
+    },
+    {
+        "query_id": "46",
+        "doc_id": "374",
+        "score": 50.354446
+    },
+    {
+        "query_id": "46",
+        "doc_id": "250",
+        "score": 49.86101
+    },
+    {
+        "query_id": "46",
+        "doc_id": "177",
+        "score": 49.4534
+    },
+    {
+        "query_id": "46",
+        "doc_id": "178",
+        "score": 47.816444
+    },
+    {
+        "query_id": "46",
+        "doc_id": "1193",
+        "score": 47.650543
+    },
+    {
+        "query_id": "47",
+        "doc_id": "873",
+        "score": 50.175014
+    },
+    {
+        "query_id": "47",
+        "doc_id": "996",
+        "score": 49.276936
+    },
+    {
+        "query_id": "47",
+        "doc_id": "131",
+        "score": 49.055054
+    },
+    {
+        "query_id": "47",
+        "doc_id": "664",
+        "score": 48.221806
+    },
+    {
+        "query_id": "47",
+        "doc_id": "160",
+        "score": 47.218628
+    },
+    {
+        "query_id": "47",
+        "doc_id": "154",
+        "score": 47.062687
+    },
+    {
+        "query_id": "47",
+        "doc_id": "476",
+        "score": 44.24047
+    },
+    {
+        "query_id": "47",
+        "doc_id": "1262",
+        "score": 42.884758
+    },
+    {
+        "query_id": "47",
+        "doc_id": "323",
+        "score": 42.814793
+    },
+    {
+        "query_id": "47",
+        "doc_id": "257",
+        "score": 42.568638
+    },
+    {
+        "query_id": "48",
+        "doc_id": "257",
+        "score": 65.40756
+    },
+    {
+        "query_id": "48",
+        "doc_id": "131",
+        "score": 62.848713
+    },
+    {
+        "query_id": "48",
+        "doc_id": "381",
+        "score": 59.976376
+    },
+    {
+        "query_id": "48",
+        "doc_id": "160",
+        "score": 55.308617
+    },
+    {
+        "query_id": "48",
+        "doc_id": "388",
+        "score": 53.74273
+    },
+    {
+        "query_id": "48",
+        "doc_id": "1219",
+        "score": 52.08491
+    },
+    {
+        "query_id": "48",
+        "doc_id": "373",
+        "score": 51.763386
+    },
+    {
+        "query_id": "48",
+        "doc_id": "68",
+        "score": 50.935966
+    },
+    {
+        "query_id": "48",
+        "doc_id": "375",
+        "score": 50.44317
+    },
+    {
+        "query_id": "48",
+        "doc_id": "592",
+        "score": 49.98277
+    },
+    {
+        "query_id": "49",
+        "doc_id": "544",
+        "score": 68.08234
+    },
+    {
+        "query_id": "49",
+        "doc_id": "1273",
+        "score": 66.497185
+    },
+    {
+        "query_id": "49",
+        "doc_id": "664",
+        "score": 66.48581
+    },
+    {
+        "query_id": "49",
+        "doc_id": "545",
+        "score": 63.626713
+    },
+    {
+        "query_id": "49",
+        "doc_id": "96",
+        "score": 61.397694
+    },
+    {
+        "query_id": "49",
+        "doc_id": "866",
+        "score": 60.447086
+    },
+    {
+        "query_id": "49",
+        "doc_id": "1082",
+        "score": 59.2133
+    },
+    {
+        "query_id": "49",
+        "doc_id": "323",
+        "score": 55.462276
+    },
+    {
+        "query_id": "49",
+        "doc_id": "140",
+        "score": 55.400333
+    },
+    {
+        "query_id": "49",
+        "doc_id": "136",
+        "score": 54.82815
+    },
+    {
+        "query_id": "50",
+        "doc_id": "388",
+        "score": 78.041504
+    },
+    {
+        "query_id": "50",
+        "doc_id": "838",
+        "score": 76.25595
+    },
+    {
+        "query_id": "50",
+        "doc_id": "261",
+        "score": 69.67806
+    },
+    {
+        "query_id": "50",
+        "doc_id": "1259",
+        "score": 59.991745
+    },
+    {
+        "query_id": "50",
+        "doc_id": "1430",
+        "score": 57.21762
+    },
+    {
+        "query_id": "50",
+        "doc_id": "263",
+        "score": 54.494358
+    },
+    {
+        "query_id": "50",
+        "doc_id": "478",
+        "score": 54.326614
+    },
+    {
+        "query_id": "50",
+        "doc_id": "151",
+        "score": 54.277977
+    },
+    {
+        "query_id": "50",
+        "doc_id": "1",
+        "score": 53.82013
+    },
+    {
+        "query_id": "50",
+        "doc_id": "795",
+        "score": 52.862297
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1124",
+        "score": 43.6684
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1118",
+        "score": 40.72549
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1222",
+        "score": 39.916344
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1139",
+        "score": 39.669853
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1175",
+        "score": 38.65363
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1171",
+        "score": 38.43365
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1120",
+        "score": 36.505024
+    },
+    {
+        "query_id": "51",
+        "doc_id": "478",
+        "score": 32.1075
+    },
+    {
+        "query_id": "51",
+        "doc_id": "1448",
+        "score": 27.090136
+    },
+    {
+        "query_id": "51",
+        "doc_id": "78",
+        "score": 26.117945
+    },
+    {
+        "query_id": "52",
+        "doc_id": "382",
+        "score": 59.45997
+    },
+    {
+        "query_id": "52",
+        "doc_id": "986",
+        "score": 54.43187
+    },
+    {
+        "query_id": "52",
+        "doc_id": "452",
+        "score": 44.558784
+    },
+    {
+        "query_id": "52",
+        "doc_id": "210",
+        "score": 44.432808
+    },
+    {
+        "query_id": "52",
+        "doc_id": "194",
+        "score": 42.73602
+    },
+    {
+        "query_id": "52",
+        "doc_id": "547",
+        "score": 39.92397
+    },
+    {
+        "query_id": "52",
+        "doc_id": "1147",
+        "score": 39.901558
+    },
+    {
+        "query_id": "52",
+        "doc_id": "586",
+        "score": 39.487656
+    },
+    {
+        "query_id": "52",
+        "doc_id": "1055",
+        "score": 38.26053
+    },
+    {
+        "query_id": "52",
+        "doc_id": "883",
+        "score": 37.942234
+    },
+    {
+        "query_id": "53",
+        "doc_id": "177",
+        "score": 57.59314
+    },
+    {
+        "query_id": "53",
+        "doc_id": "17",
+        "score": 46.414608
+    },
+    {
+        "query_id": "53",
+        "doc_id": "1330",
+        "score": 45.25977
+    },
+    {
+        "query_id": "53",
+        "doc_id": "1249",
+        "score": 44.53285
+    },
+    {
+        "query_id": "53",
+        "doc_id": "905",
+        "score": 42.55378
+    },
+    {
+        "query_id": "53",
+        "doc_id": "865",
+        "score": 42.047886
+    },
+    {
+        "query_id": "53",
+        "doc_id": "1027",
+        "score": 41.498154
+    },
+    {
+        "query_id": "53",
+        "doc_id": "476",
+        "score": 41.160973
+    },
+    {
+        "query_id": "53",
+        "doc_id": "828",
+        "score": 41.14664
+    },
+    {
+        "query_id": "53",
+        "doc_id": "860",
+        "score": 41.131596
+    },
+    {
+        "query_id": "54",
+        "doc_id": "177",
+        "score": 39.184616
+    },
+    {
+        "query_id": "54",
+        "doc_id": "17",
+        "score": 36.356182
+    },
+    {
+        "query_id": "54",
+        "doc_id": "141",
+        "score": 34.84215
+    },
+    {
+        "query_id": "54",
+        "doc_id": "916",
+        "score": 34.77181
+    },
+    {
+        "query_id": "54",
+        "doc_id": "323",
+        "score": 31.511862
+    },
+    {
+        "query_id": "54",
+        "doc_id": "283",
+        "score": 31.144598
+    },
+    {
+        "query_id": "54",
+        "doc_id": "1457",
+        "score": 30.463331
+    },
+    {
+        "query_id": "54",
+        "doc_id": "1008",
+        "score": 29.952175
+    },
+    {
+        "query_id": "54",
+        "doc_id": "187",
+        "score": 29.850803
+    },
+    {
+        "query_id": "54",
+        "doc_id": "952",
+        "score": 29.795095
+    },
+    {
+        "query_id": "55",
+        "doc_id": "382",
+        "score": 46.68897
+    },
+    {
+        "query_id": "55",
+        "doc_id": "883",
+        "score": 40.25333
+    },
+    {
+        "query_id": "55",
+        "doc_id": "986",
+        "score": 37.81569
+    },
+    {
+        "query_id": "55",
+        "doc_id": "1051",
+        "score": 35.220997
+    },
+    {
+        "query_id": "55",
+        "doc_id": "452",
+        "score": 34.608654
+    },
+    {
+        "query_id": "55",
+        "doc_id": "608",
+        "score": 33.54371
+    },
+    {
+        "query_id": "55",
+        "doc_id": "806",
+        "score": 32.17824
+    },
+    {
+        "query_id": "55",
+        "doc_id": "603",
+        "score": 31.377266
+    },
+    {
+        "query_id": "55",
+        "doc_id": "526",
+        "score": 29.653957
+    },
+    {
+        "query_id": "55",
+        "doc_id": "828",
+        "score": 28.164473
+    },
+    {
+        "query_id": "56",
+        "doc_id": "275",
+        "score": 37.146873
+    },
+    {
+        "query_id": "56",
+        "doc_id": "941",
+        "score": 35.991276
+    },
+    {
+        "query_id": "56",
+        "doc_id": "998",
+        "score": 35.696163
+    },
+    {
+        "query_id": "56",
+        "doc_id": "655",
+        "score": 34.5575
+    },
+    {
+        "query_id": "56",
+        "doc_id": "326",
+        "score": 34.539455
+    },
+    {
+        "query_id": "56",
+        "doc_id": "282",
+        "score": 34.26363
+    },
+    {
+        "query_id": "56",
+        "doc_id": "798",
+        "score": 32.673817
+    },
+    {
+        "query_id": "56",
+        "doc_id": "388",
+        "score": 32.082737
+    },
+    {
+        "query_id": "56",
+        "doc_id": "970",
+        "score": 31.692232
+    },
+    {
+        "query_id": "56",
+        "doc_id": "1448",
+        "score": 31.387518
+    },
+    {
+        "query_id": "57",
+        "doc_id": "848",
+        "score": 47.341637
+    },
+    {
+        "query_id": "57",
+        "doc_id": "480",
+        "score": 45.217033
+    },
+    {
+        "query_id": "57",
+        "doc_id": "1366",
+        "score": 45.08594
+    },
+    {
+        "query_id": "57",
+        "doc_id": "746",
+        "score": 41.31883
+    },
+    {
+        "query_id": "57",
+        "doc_id": "326",
+        "score": 40.84786
+    },
+    {
+        "query_id": "57",
+        "doc_id": "1230",
+        "score": 40.68839
+    },
+    {
+        "query_id": "57",
+        "doc_id": "990",
+        "score": 39.024292
+    },
+    {
+        "query_id": "57",
+        "doc_id": "1024",
+        "score": 38.11792
+    },
+    {
+        "query_id": "57",
+        "doc_id": "1091",
+        "score": 37.729248
+    },
+    {
+        "query_id": "57",
+        "doc_id": "90",
+        "score": 36.20334
+    },
+    {
+        "query_id": "58",
+        "doc_id": "884",
+        "score": 54.895107
+    },
+    {
+        "query_id": "58",
+        "doc_id": "126",
+        "score": 54.266315
+    },
+    {
+        "query_id": "58",
+        "doc_id": "140",
+        "score": 53.40609
+    },
+    {
+        "query_id": "58",
+        "doc_id": "1043",
+        "score": 52.493603
+    },
+    {
+        "query_id": "58",
+        "doc_id": "136",
+        "score": 51.70051
+    },
+    {
+        "query_id": "58",
+        "doc_id": "123",
+        "score": 49.824657
+    },
+    {
+        "query_id": "58",
+        "doc_id": "1011",
+        "score": 49.3709
+    },
+    {
+        "query_id": "58",
+        "doc_id": "947",
+        "score": 48.646973
+    },
+    {
+        "query_id": "58",
+        "doc_id": "408",
+        "score": 48.550037
+    },
+    {
+        "query_id": "58",
+        "doc_id": "885",
+        "score": 47.757927
+    },
+    {
+        "query_id": "59",
+        "doc_id": "492",
+        "score": 86.47744
+    },
+    {
+        "query_id": "59",
+        "doc_id": "806",
+        "score": 84.68962
+    },
+    {
+        "query_id": "59",
+        "doc_id": "523",
+        "score": 84.50665
+    },
+    {
+        "query_id": "59",
+        "doc_id": "820",
+        "score": 84.03455
+    },
+    {
+        "query_id": "59",
+        "doc_id": "603",
+        "score": 83.45284
+    },
+    {
+        "query_id": "59",
+        "doc_id": "636",
+        "score": 79.37421
+    },
+    {
+        "query_id": "59",
+        "doc_id": "894",
+        "score": 76.084564
+    },
+    {
+        "query_id": "59",
+        "doc_id": "486",
+        "score": 72.899666
+    },
+    {
+        "query_id": "59",
+        "doc_id": "61",
+        "score": 72.151985
+    },
+    {
+        "query_id": "59",
+        "doc_id": "702",
+        "score": 71.91059
+    },
+    {
+        "query_id": "60",
+        "doc_id": "523",
+        "score": 110.6571
+    },
+    {
+        "query_id": "60",
+        "doc_id": "486",
+        "score": 106.735565
+    },
+    {
+        "query_id": "60",
+        "doc_id": "61",
+        "score": 97.56289
+    },
+    {
+        "query_id": "60",
+        "doc_id": "487",
+        "score": 94.3513
+    },
+    {
+        "query_id": "60",
+        "doc_id": "632",
+        "score": 92.61728
+    },
+    {
+        "query_id": "60",
+        "doc_id": "813",
+        "score": 90.56685
+    },
+    {
+        "query_id": "60",
+        "doc_id": "806",
+        "score": 89.64688
+    },
+    {
+        "query_id": "60",
+        "doc_id": "956",
+        "score": 89.58412
+    },
+    {
+        "query_id": "60",
+        "doc_id": "492",
+        "score": 89.396935
+    },
+    {
+        "query_id": "60",
+        "doc_id": "660",
+        "score": 87.97742
+    },
+    {
+        "query_id": "61",
+        "doc_id": "606",
+        "score": 54.72767
+    },
+    {
+        "query_id": "61",
+        "doc_id": "579",
+        "score": 48.381184
+    },
+    {
+        "query_id": "61",
+        "doc_id": "483",
+        "score": 46.843285
+    },
+    {
+        "query_id": "61",
+        "doc_id": "165",
+        "score": 45.169014
+    },
+    {
+        "query_id": "61",
+        "doc_id": "518",
+        "score": 44.502563
+    },
+    {
+        "query_id": "61",
+        "doc_id": "448",
+        "score": 44.197113
+    },
+    {
+        "query_id": "61",
+        "doc_id": "1327",
+        "score": 44.07765
+    },
+    {
+        "query_id": "61",
+        "doc_id": "594",
+        "score": 43.874096
+    },
+    {
+        "query_id": "61",
+        "doc_id": "1120",
+        "score": 42.735962
+    },
+    {
+        "query_id": "61",
+        "doc_id": "487",
+        "score": 42.583458
+    },
+    {
+        "query_id": "62",
+        "doc_id": "455",
+        "score": 77.588585
+    },
+    {
+        "query_id": "62",
+        "doc_id": "464",
+        "score": 70.399445
+    },
+    {
+        "query_id": "62",
+        "doc_id": "430",
+        "score": 60.976414
+    },
+    {
+        "query_id": "62",
+        "doc_id": "745",
+        "score": 58.687584
+    },
+    {
+        "query_id": "62",
+        "doc_id": "443",
+        "score": 57.66504
+    },
+    {
+        "query_id": "62",
+        "doc_id": "810",
+        "score": 56.670433
+    },
+    {
+        "query_id": "62",
+        "doc_id": "773",
+        "score": 52.75522
+    },
+    {
+        "query_id": "62",
+        "doc_id": "81",
+        "score": 52.311085
+    },
+    {
+        "query_id": "62",
+        "doc_id": "319",
+        "score": 52.01834
+    },
+    {
+        "query_id": "62",
+        "doc_id": "1363",
+        "score": 51.92898
+    },
+    {
+        "query_id": "63",
+        "doc_id": "529",
+        "score": 81.62731
+    },
+    {
+        "query_id": "63",
+        "doc_id": "523",
+        "score": 79.31437
+    },
+    {
+        "query_id": "63",
+        "doc_id": "309",
+        "score": 79.09866
+    },
+    {
+        "query_id": "63",
+        "doc_id": "1375",
+        "score": 76.24222
+    },
+    {
+        "query_id": "63",
+        "doc_id": "512",
+        "score": 75.17855
+    },
+    {
+        "query_id": "63",
+        "doc_id": "158",
+        "score": 72.872856
+    },
+    {
+        "query_id": "63",
+        "doc_id": "593",
+        "score": 72.38795
+    },
+    {
+        "query_id": "63",
+        "doc_id": "594",
+        "score": 71.09552
+    },
+    {
+        "query_id": "63",
+        "doc_id": "634",
+        "score": 69.34275
+    },
+    {
+        "query_id": "63",
+        "doc_id": "779",
+        "score": 68.1461
+    },
+    {
+        "query_id": "64",
+        "doc_id": "313",
+        "score": 46.148834
+    },
+    {
+        "query_id": "64",
+        "doc_id": "665",
+        "score": 40.51336
+    },
+    {
+        "query_id": "64",
+        "doc_id": "977",
+        "score": 38.838345
+    },
+    {
+        "query_id": "64",
+        "doc_id": "1314",
+        "score": 38.593426
+    },
+    {
+        "query_id": "64",
+        "doc_id": "1014",
+        "score": 38.483307
+    },
+    {
+        "query_id": "64",
+        "doc_id": "746",
+        "score": 37.997787
+    },
+    {
+        "query_id": "64",
+        "doc_id": "825",
+        "score": 36.84091
+    },
+    {
+        "query_id": "64",
+        "doc_id": "1023",
+        "score": 35.775772
+    },
+    {
+        "query_id": "64",
+        "doc_id": "1188",
+        "score": 35.68587
+    },
+    {
+        "query_id": "64",
+        "doc_id": "1211",
+        "score": 35.452965
+    },
+    {
+        "query_id": "65",
+        "doc_id": "448",
+        "score": 115.0514
+    },
+    {
+        "query_id": "65",
+        "doc_id": "509",
+        "score": 112.24408
+    },
+    {
+        "query_id": "65",
+        "doc_id": "487",
+        "score": 93.379555
+    },
+    {
+        "query_id": "65",
+        "doc_id": "566",
+        "score": 89.59155
+    },
+    {
+        "query_id": "65",
+        "doc_id": "486",
+        "score": 88.43686
+    },
+    {
+        "query_id": "65",
+        "doc_id": "603",
+        "score": 86.65548
+    },
+    {
+        "query_id": "65",
+        "doc_id": "754",
+        "score": 86.07352
+    },
+    {
+        "query_id": "65",
+        "doc_id": "61",
+        "score": 85.78489
+    },
+    {
+        "query_id": "65",
+        "doc_id": "483",
+        "score": 85.61799
+    },
+    {
+        "query_id": "65",
+        "doc_id": "1054",
+        "score": 85.11523
+    },
+    {
+        "query_id": "66",
+        "doc_id": "947",
+        "score": 55.480083
+    },
+    {
+        "query_id": "66",
+        "doc_id": "1367",
+        "score": 47.037807
+    },
+    {
+        "query_id": "66",
+        "doc_id": "218",
+        "score": 45.344
+    },
+    {
+        "query_id": "66",
+        "doc_id": "594",
+        "score": 43.757446
+    },
+    {
+        "query_id": "66",
+        "doc_id": "1303",
+        "score": 43.583534
+    },
+    {
+        "query_id": "66",
+        "doc_id": "728",
+        "score": 43.565956
+    },
+    {
+        "query_id": "66",
+        "doc_id": "1362",
+        "score": 43.446304
+    },
+    {
+        "query_id": "66",
+        "doc_id": "885",
+        "score": 43.431244
+    },
+    {
+        "query_id": "66",
+        "doc_id": "376",
+        "score": 42.924732
+    },
+    {
+        "query_id": "66",
+        "doc_id": "1415",
+        "score": 42.374638
+    },
+    {
+        "query_id": "67",
+        "doc_id": "564",
+        "score": 143.18507
+    },
+    {
+        "query_id": "67",
+        "doc_id": "677",
+        "score": 134.39848
+    },
+    {
+        "query_id": "67",
+        "doc_id": "643",
+        "score": 121.95763
+    },
+    {
+        "query_id": "67",
+        "doc_id": "820",
+        "score": 120.119576
+    },
+    {
+        "query_id": "67",
+        "doc_id": "1124",
+        "score": 119.97234
+    },
+    {
+        "query_id": "67",
+        "doc_id": "830",
+        "score": 118.64175
+    },
+    {
+        "query_id": "67",
+        "doc_id": "421",
+        "score": 111.897736
+    },
+    {
+        "query_id": "67",
+        "doc_id": "446",
+        "score": 110.310776
+    },
+    {
+        "query_id": "67",
+        "doc_id": "702",
+        "score": 108.54193
+    },
+    {
+        "query_id": "67",
+        "doc_id": "45",
+        "score": 105.12481
+    },
+    {
+        "query_id": "68",
+        "doc_id": "570",
+        "score": 93.329506
+    },
+    {
+        "query_id": "68",
+        "doc_id": "820",
+        "score": 88.47171
+    },
+    {
+        "query_id": "68",
+        "doc_id": "608",
+        "score": 84.85117
+    },
+    {
+        "query_id": "68",
+        "doc_id": "562",
+        "score": 81.61986
+    },
+    {
+        "query_id": "68",
+        "doc_id": "894",
+        "score": 81.26509
+    },
+    {
+        "query_id": "68",
+        "doc_id": "660",
+        "score": 80.112335
+    },
+    {
+        "query_id": "68",
+        "doc_id": "643",
+        "score": 79.99832
+    },
+    {
+        "query_id": "68",
+        "doc_id": "448",
+        "score": 79.02841
+    },
+    {
+        "query_id": "68",
+        "doc_id": "446",
+        "score": 76.68237
+    },
+    {
+        "query_id": "68",
+        "doc_id": "812",
+        "score": 76.27485
+    },
+    {
+        "query_id": "69",
+        "doc_id": "151",
+        "score": 70.12586
+    },
+    {
+        "query_id": "69",
+        "doc_id": "511",
+        "score": 70.03149
+    },
+    {
+        "query_id": "69",
+        "doc_id": "798",
+        "score": 69.41636
+    },
+    {
+        "query_id": "69",
+        "doc_id": "530",
+        "score": 69.39062
+    },
+    {
+        "query_id": "69",
+        "doc_id": "739",
+        "score": 66.275696
+    },
+    {
+        "query_id": "69",
+        "doc_id": "390",
+        "score": 66.09518
+    },
+    {
+        "query_id": "69",
+        "doc_id": "501",
+        "score": 65.73334
+    },
+    {
+        "query_id": "69",
+        "doc_id": "212",
+        "score": 64.432945
+    },
+    {
+        "query_id": "69",
+        "doc_id": "1073",
+        "score": 63.093887
+    },
+    {
+        "query_id": "69",
+        "doc_id": "606",
+        "score": 62.18349
+    },
+    {
+        "query_id": "70",
+        "doc_id": "572",
+        "score": 120.57454
+    },
+    {
+        "query_id": "70",
+        "doc_id": "151",
+        "score": 112.20289
+    },
+    {
+        "query_id": "70",
+        "doc_id": "593",
+        "score": 111.124596
+    },
+    {
+        "query_id": "70",
+        "doc_id": "1038",
+        "score": 108.464516
+    },
+    {
+        "query_id": "70",
+        "doc_id": "948",
+        "score": 103.70023
+    },
+    {
+        "query_id": "70",
+        "doc_id": "140",
+        "score": 102.83549
+    },
+    {
+        "query_id": "70",
+        "doc_id": "1040",
+        "score": 100.25694
+    },
+    {
+        "query_id": "70",
+        "doc_id": "373",
+        "score": 97.77453
+    },
+    {
+        "query_id": "70",
+        "doc_id": "408",
+        "score": 95.40611
+    },
+    {
+        "query_id": "70",
+        "doc_id": "291",
+        "score": 94.51694
+    },
+    {
+        "query_id": "71",
+        "doc_id": "666",
+        "score": 108.39087
+    },
+    {
+        "query_id": "71",
+        "doc_id": "1124",
+        "score": 100.75161
+    },
+    {
+        "query_id": "71",
+        "doc_id": "499",
+        "score": 97.43087
+    },
+    {
+        "query_id": "71",
+        "doc_id": "483",
+        "score": 96.36343
+    },
+    {
+        "query_id": "71",
+        "doc_id": "820",
+        "score": 84.72633
+    },
+    {
+        "query_id": "71",
+        "doc_id": "448",
+        "score": 78.812294
+    },
+    {
+        "query_id": "71",
+        "doc_id": "363",
+        "score": 78.01218
+    },
+    {
+        "query_id": "71",
+        "doc_id": "1054",
+        "score": 77.78093
+    },
+    {
+        "query_id": "71",
+        "doc_id": "35",
+        "score": 75.1528
+    },
+    {
+        "query_id": "71",
+        "doc_id": "1009",
+        "score": 74.07816
+    },
+    {
+        "query_id": "72",
+        "doc_id": "636",
+        "score": 147.74135
+    },
+    {
+        "query_id": "72",
+        "doc_id": "68",
+        "score": 106.756256
+    },
+    {
+        "query_id": "72",
+        "doc_id": "807",
+        "score": 85.881905
+    },
+    {
+        "query_id": "72",
+        "doc_id": "603",
+        "score": 83.78103
+    },
+    {
+        "query_id": "72",
+        "doc_id": "478",
+        "score": 81.07931
+    },
+    {
+        "query_id": "72",
+        "doc_id": "820",
+        "score": 80.84734
+    },
+    {
+        "query_id": "72",
+        "doc_id": "487",
+        "score": 80.79529
+    },
+    {
+        "query_id": "72",
+        "doc_id": "813",
+        "score": 76.75177
+    },
+    {
+        "query_id": "72",
+        "doc_id": "1091",
+        "score": 75.89534
+    },
+    {
+        "query_id": "72",
+        "doc_id": "523",
+        "score": 75.17879
+    },
+    {
+        "query_id": "73",
+        "doc_id": "1124",
+        "score": 90.89287
+    },
+    {
+        "query_id": "73",
+        "doc_id": "737",
+        "score": 88.931076
+    },
+    {
+        "query_id": "73",
+        "doc_id": "1118",
+        "score": 87.35377
+    },
+    {
+        "query_id": "73",
+        "doc_id": "318",
+        "score": 85.53089
+    },
+    {
+        "query_id": "73",
+        "doc_id": "321",
+        "score": 77.67778
+    },
+    {
+        "query_id": "73",
+        "doc_id": "1197",
+        "score": 74.20533
+    },
+    {
+        "query_id": "73",
+        "doc_id": "1175",
+        "score": 74.19774
+    },
+    {
+        "query_id": "73",
+        "doc_id": "1171",
+        "score": 72.337555
+    },
+    {
+        "query_id": "73",
+        "doc_id": "871",
+        "score": 71.16459
+    },
+    {
+        "query_id": "73",
+        "doc_id": "1419",
+        "score": 70.50789
+    },
+    {
+        "query_id": "74",
+        "doc_id": "947",
+        "score": 63.55654
+    },
+    {
+        "query_id": "74",
+        "doc_id": "211",
+        "score": 62.9941
+    },
+    {
+        "query_id": "74",
+        "doc_id": "218",
+        "score": 61.136368
+    },
+    {
+        "query_id": "74",
+        "doc_id": "375",
+        "score": 60.48092
+    },
+    {
+        "query_id": "74",
+        "doc_id": "119",
+        "score": 57.620487
+    },
+    {
+        "query_id": "74",
+        "doc_id": "885",
+        "score": 57.22699
+    },
+    {
+        "query_id": "74",
+        "doc_id": "972",
+        "score": 55.20601
+    },
+    {
+        "query_id": "74",
+        "doc_id": "1011",
+        "score": 53.872795
+    },
+    {
+        "query_id": "74",
+        "doc_id": "1013",
+        "score": 53.659435
+    },
+    {
+        "query_id": "74",
+        "doc_id": "823",
+        "score": 53.291164
+    },
+    {
+        "query_id": "75",
+        "doc_id": "1427",
+        "score": 56.227367
+    },
+    {
+        "query_id": "75",
+        "doc_id": "168",
+        "score": 44.0861
+    },
+    {
+        "query_id": "75",
+        "doc_id": "84",
+        "score": 42.144566
+    },
+    {
+        "query_id": "75",
+        "doc_id": "636",
+        "score": 41.90339
+    },
+    {
+        "query_id": "75",
+        "doc_id": "572",
+        "score": 41.57356
+    },
+    {
+        "query_id": "75",
+        "doc_id": "1443",
+        "score": 41.496235
+    },
+    {
+        "query_id": "75",
+        "doc_id": "399",
+        "score": 40.7548
+    },
+    {
+        "query_id": "75",
+        "doc_id": "477",
+        "score": 39.503403
+    },
+    {
+        "query_id": "75",
+        "doc_id": "176",
+        "score": 39.366444
+    },
+    {
+        "query_id": "75",
+        "doc_id": "838",
+        "score": 39.02442
+    },
+    {
+        "query_id": "76",
+        "doc_id": "1011",
+        "score": 57.801727
+    },
+    {
+        "query_id": "76",
+        "doc_id": "211",
+        "score": 50.713524
+    },
+    {
+        "query_id": "76",
+        "doc_id": "352",
+        "score": 45.70974
+    },
+    {
+        "query_id": "76",
+        "doc_id": "126",
+        "score": 41.16702
+    },
+    {
+        "query_id": "76",
+        "doc_id": "1014",
+        "score": 41.07698
+    },
+    {
+        "query_id": "76",
+        "doc_id": "1236",
+        "score": 41.02526
+    },
+    {
+        "query_id": "76",
+        "doc_id": "950",
+        "score": 40.7656
+    },
+    {
+        "query_id": "76",
+        "doc_id": "1020",
+        "score": 40.32639
+    },
+    {
+        "query_id": "76",
+        "doc_id": "947",
+        "score": 39.471786
+    },
+    {
+        "query_id": "76",
+        "doc_id": "220",
+        "score": 38.60839
+    },
+    {
+        "query_id": "77",
+        "doc_id": "820",
+        "score": 72.482285
+    },
+    {
+        "query_id": "77",
+        "doc_id": "894",
+        "score": 68.01249
+    },
+    {
+        "query_id": "77",
+        "doc_id": "746",
+        "score": 60.38502
+    },
+    {
+        "query_id": "77",
+        "doc_id": "603",
+        "score": 58.547653
+    },
+    {
+        "query_id": "77",
+        "doc_id": "659",
+        "score": 58.238613
+    },
+    {
+        "query_id": "77",
+        "doc_id": "1230",
+        "score": 57.711338
+    },
+    {
+        "query_id": "77",
+        "doc_id": "810",
+        "score": 57.445778
+    },
+    {
+        "query_id": "77",
+        "doc_id": "519",
+        "score": 57.38217
+    },
+    {
+        "query_id": "77",
+        "doc_id": "702",
+        "score": 56.72143
+    },
+    {
+        "query_id": "77",
+        "doc_id": "1091",
+        "score": 55.85256
+    },
+    {
+        "query_id": "78",
+        "doc_id": "660",
+        "score": 40.83917
+    },
+    {
+        "query_id": "78",
+        "doc_id": "277",
+        "score": 40.619186
+    },
+    {
+        "query_id": "78",
+        "doc_id": "168",
+        "score": 40.580402
+    },
+    {
+        "query_id": "78",
+        "doc_id": "511",
+        "score": 39.88246
+    },
+    {
+        "query_id": "78",
+        "doc_id": "838",
+        "score": 39.6898
+    },
+    {
+        "query_id": "78",
+        "doc_id": "761",
+        "score": 37.92282
+    },
+    {
+        "query_id": "78",
+        "doc_id": "399",
+        "score": 37.05952
+    },
+    {
+        "query_id": "78",
+        "doc_id": "397",
+        "score": 36.257656
+    },
+    {
+        "query_id": "78",
+        "doc_id": "1163",
+        "score": 35.984974
+    },
+    {
+        "query_id": "78",
+        "doc_id": "61",
+        "score": 35.80564
+    },
+    {
+        "query_id": "79",
+        "doc_id": "450",
+        "score": 64.16938
+    },
+    {
+        "query_id": "79",
+        "doc_id": "487",
+        "score": 57.484173
+    },
+    {
+        "query_id": "79",
+        "doc_id": "706",
+        "score": 56.524235
+    },
+    {
+        "query_id": "79",
+        "doc_id": "523",
+        "score": 53.34228
+    },
+    {
+        "query_id": "79",
+        "doc_id": "680",
+        "score": 50.86532
+    },
+    {
+        "query_id": "79",
+        "doc_id": "1124",
+        "score": 49.575027
+    },
+    {
+        "query_id": "79",
+        "doc_id": "708",
+        "score": 46.757145
+    },
+    {
+        "query_id": "79",
+        "doc_id": "1366",
+        "score": 46.402073
+    },
+    {
+        "query_id": "79",
+        "doc_id": "512",
+        "score": 45.469036
+    },
+    {
+        "query_id": "79",
+        "doc_id": "158",
+        "score": 45.437874
+    },
+    {
+        "query_id": "80",
+        "doc_id": "631",
+        "score": 100.75513
+    },
+    {
+        "query_id": "80",
+        "doc_id": "759",
+        "score": 94.24892
+    },
+    {
+        "query_id": "80",
+        "doc_id": "778",
+        "score": 92.28467
+    },
+    {
+        "query_id": "80",
+        "doc_id": "765",
+        "score": 84.17317
+    },
+    {
+        "query_id": "80",
+        "doc_id": "1090",
+        "score": 75.55757
+    },
+    {
+        "query_id": "80",
+        "doc_id": "1416",
+        "score": 74.31273
+    },
+    {
+        "query_id": "80",
+        "doc_id": "649",
+        "score": 73.75509
+    },
+    {
+        "query_id": "80",
+        "doc_id": "552",
+        "score": 73.29095
+    },
+    {
+        "query_id": "80",
+        "doc_id": "748",
+        "score": 72.54557
+    },
+    {
+        "query_id": "80",
+        "doc_id": "229",
+        "score": 70.180664
+    },
+    {
+        "query_id": "81",
+        "doc_id": "1323",
+        "score": 96.48444
+    },
+    {
+        "query_id": "81",
+        "doc_id": "35",
+        "score": 80.72067
+    },
+    {
+        "query_id": "81",
+        "doc_id": "175",
+        "score": 73.72962
+    },
+    {
+        "query_id": "81",
+        "doc_id": "1171",
+        "score": 73.03524
+    },
+    {
+        "query_id": "81",
+        "doc_id": "179",
+        "score": 68.1699
+    },
+    {
+        "query_id": "81",
+        "doc_id": "572",
+        "score": 66.00932
+    },
+    {
+        "query_id": "81",
+        "doc_id": "350",
+        "score": 65.83415
+    },
+    {
+        "query_id": "81",
+        "doc_id": "779",
+        "score": 64.509605
+    },
+    {
+        "query_id": "81",
+        "doc_id": "1399",
+        "score": 64.428566
+    },
+    {
+        "query_id": "81",
+        "doc_id": "376",
+        "score": 64.08521
+    },
+    {
+        "query_id": "82",
+        "doc_id": "310",
+        "score": 66.276634
+    },
+    {
+        "query_id": "82",
+        "doc_id": "25",
+        "score": 61.013645
+    },
+    {
+        "query_id": "82",
+        "doc_id": "1039",
+        "score": 54.86174
+    },
+    {
+        "query_id": "82",
+        "doc_id": "590",
+        "score": 54.201374
+    },
+    {
+        "query_id": "82",
+        "doc_id": "641",
+        "score": 52.960487
+    },
+    {
+        "query_id": "82",
+        "doc_id": "1419",
+        "score": 52.23932
+    },
+    {
+        "query_id": "82",
+        "doc_id": "778",
+        "score": 51.920097
+    },
+    {
+        "query_id": "82",
+        "doc_id": "176",
+        "score": 51.66737
+    },
+    {
+        "query_id": "82",
+        "doc_id": "516",
+        "score": 51.566193
+    },
+    {
+        "query_id": "82",
+        "doc_id": "805",
+        "score": 51.546303
+    },
+    {
+        "query_id": "83",
+        "doc_id": "350",
+        "score": 85.46338
+    },
+    {
+        "query_id": "83",
+        "doc_id": "7",
+        "score": 78.519196
+    },
+    {
+        "query_id": "83",
+        "doc_id": "617",
+        "score": 76.345985
+    },
+    {
+        "query_id": "83",
+        "doc_id": "703",
+        "score": 72.2929
+    },
+    {
+        "query_id": "83",
+        "doc_id": "1418",
+        "score": 71.58531
+    },
+    {
+        "query_id": "83",
+        "doc_id": "1211",
+        "score": 70.4888
+    },
+    {
+        "query_id": "83",
+        "doc_id": "309",
+        "score": 64.74132
+    },
+    {
+        "query_id": "83",
+        "doc_id": "136",
+        "score": 64.54424
+    },
+    {
+        "query_id": "83",
+        "doc_id": "529",
+        "score": 64.110176
+    },
+    {
+        "query_id": "83",
+        "doc_id": "737",
+        "score": 62.7737
+    },
+    {
+        "query_id": "84",
+        "doc_id": "523",
+        "score": 80.85865
+    },
+    {
+        "query_id": "84",
+        "doc_id": "486",
+        "score": 77.913574
+    },
+    {
+        "query_id": "84",
+        "doc_id": "754",
+        "score": 75.81041
+    },
+    {
+        "query_id": "84",
+        "doc_id": "810",
+        "score": 71.84497
+    },
+    {
+        "query_id": "84",
+        "doc_id": "448",
+        "score": 71.81081
+    },
+    {
+        "query_id": "84",
+        "doc_id": "608",
+        "score": 71.4009
+    },
+    {
+        "query_id": "84",
+        "doc_id": "487",
+        "score": 70.54714
+    },
+    {
+        "query_id": "84",
+        "doc_id": "603",
+        "score": 70.340454
+    },
+    {
+        "query_id": "84",
+        "doc_id": "1124",
+        "score": 68.376335
+    },
+    {
+        "query_id": "84",
+        "doc_id": "519",
+        "score": 67.15109
+    },
+    {
+        "query_id": "85",
+        "doc_id": "1427",
+        "score": 108.612
+    },
+    {
+        "query_id": "85",
+        "doc_id": "512",
+        "score": 93.316
+    },
+    {
+        "query_id": "85",
+        "doc_id": "706",
+        "score": 92.65318
+    },
+    {
+        "query_id": "85",
+        "doc_id": "595",
+        "score": 90.98454
+    },
+    {
+        "query_id": "85",
+        "doc_id": "317",
+        "score": 90.54487
+    },
+    {
+        "query_id": "85",
+        "doc_id": "528",
+        "score": 87.37237
+    },
+    {
+        "query_id": "85",
+        "doc_id": "134",
+        "score": 84.19323
+    },
+    {
+        "query_id": "85",
+        "doc_id": "553",
+        "score": 84.13304
+    },
+    {
+        "query_id": "85",
+        "doc_id": "637",
+        "score": 83.50505
+    },
+    {
+        "query_id": "85",
+        "doc_id": "825",
+        "score": 82.19038
+    },
+    {
+        "query_id": "86",
+        "doc_id": "862",
+        "score": 70.96128
+    },
+    {
+        "query_id": "86",
+        "doc_id": "820",
+        "score": 69.331955
+    },
+    {
+        "query_id": "86",
+        "doc_id": "808",
+        "score": 69.315186
+    },
+    {
+        "query_id": "86",
+        "doc_id": "587",
+        "score": 65.49902
+    },
+    {
+        "query_id": "86",
+        "doc_id": "596",
+        "score": 62.22297
+    },
+    {
+        "query_id": "86",
+        "doc_id": "425",
+        "score": 60.514347
+    },
+    {
+        "query_id": "86",
+        "doc_id": "197",
+        "score": 59.733143
+    },
+    {
+        "query_id": "86",
+        "doc_id": "317",
+        "score": 57.405777
+    },
+    {
+        "query_id": "86",
+        "doc_id": "581",
+        "score": 56.193798
+    },
+    {
+        "query_id": "86",
+        "doc_id": "1117",
+        "score": 55.223175
+    },
+    {
+        "query_id": "87",
+        "doc_id": "534",
+        "score": 126.189644
+    },
+    {
+        "query_id": "87",
+        "doc_id": "892",
+        "score": 78.49381
+    },
+    {
+        "query_id": "87",
+        "doc_id": "1252",
+        "score": 76.43949
+    },
+    {
+        "query_id": "87",
+        "doc_id": "822",
+        "score": 75.10687
+    },
+    {
+        "query_id": "87",
+        "doc_id": "880",
+        "score": 74.33715
+    },
+    {
+        "query_id": "87",
+        "doc_id": "1043",
+        "score": 73.99755
+    },
+    {
+        "query_id": "87",
+        "doc_id": "617",
+        "score": 72.84888
+    },
+    {
+        "query_id": "87",
+        "doc_id": "145",
+        "score": 69.92795
+    },
+    {
+        "query_id": "87",
+        "doc_id": "897",
+        "score": 69.86001
+    },
+    {
+        "query_id": "87",
+        "doc_id": "523",
+        "score": 69.00767
+    },
+    {
+        "query_id": "88",
+        "doc_id": "317",
+        "score": 84.64859
+    },
+    {
+        "query_id": "88",
+        "doc_id": "445",
+        "score": 58.385395
+    },
+    {
+        "query_id": "88",
+        "doc_id": "1024",
+        "score": 58.099243
+    },
+    {
+        "query_id": "88",
+        "doc_id": "390",
+        "score": 57.26358
+    },
+    {
+        "query_id": "88",
+        "doc_id": "637",
+        "score": 56.24349
+    },
+    {
+        "query_id": "88",
+        "doc_id": "434",
+        "score": 55.491287
+    },
+    {
+        "query_id": "88",
+        "doc_id": "1427",
+        "score": 54.875458
+    },
+    {
+        "query_id": "88",
+        "doc_id": "168",
+        "score": 54.867554
+    },
+    {
+        "query_id": "88",
+        "doc_id": "530",
+        "score": 54.788235
+    },
+    {
+        "query_id": "88",
+        "doc_id": "755",
+        "score": 53.496674
+    },
+    {
+        "query_id": "89",
+        "doc_id": "145",
+        "score": 76.079254
+    },
+    {
+        "query_id": "89",
+        "doc_id": "591",
+        "score": 65.98971
+    },
+    {
+        "query_id": "89",
+        "doc_id": "158",
+        "score": 64.89138
+    },
+    {
+        "query_id": "89",
+        "doc_id": "579",
+        "score": 63.327316
+    },
+    {
+        "query_id": "89",
+        "doc_id": "490",
+        "score": 60.696503
+    },
+    {
+        "query_id": "89",
+        "doc_id": "534",
+        "score": 58.573513
+    },
+    {
+        "query_id": "89",
+        "doc_id": "629",
+        "score": 56.425438
+    },
+    {
+        "query_id": "89",
+        "doc_id": "1060",
+        "score": 56.241447
+    },
+    {
+        "query_id": "89",
+        "doc_id": "842",
+        "score": 56.141884
+    },
+    {
+        "query_id": "89",
+        "doc_id": "367",
+        "score": 55.657314
+    },
+    {
+        "query_id": "90",
+        "doc_id": "838",
+        "score": 162.57689
+    },
+    {
+        "query_id": "90",
+        "doc_id": "399",
+        "score": 154.94162
+    },
+    {
+        "query_id": "90",
+        "doc_id": "641",
+        "score": 151.315
+    },
+    {
+        "query_id": "90",
+        "doc_id": "610",
+        "score": 149.1996
+    },
+    {
+        "query_id": "90",
+        "doc_id": "89",
+        "score": 148.23616
+    },
+    {
+        "query_id": "90",
+        "doc_id": "107",
+        "score": 146.44498
+    },
+    {
+        "query_id": "90",
+        "doc_id": "1418",
+        "score": 141.91945
+    },
+    {
+        "query_id": "90",
+        "doc_id": "795",
+        "score": 140.89815
+    },
+    {
+        "query_id": "90",
+        "doc_id": "972",
+        "score": 140.88412
+    },
+    {
+        "query_id": "90",
+        "doc_id": "660",
+        "score": 139.65915
+    },
+    {
+        "query_id": "91",
+        "doc_id": "613",
+        "score": 115.261604
+    },
+    {
+        "query_id": "91",
+        "doc_id": "448",
+        "score": 107.87071
+    },
+    {
+        "query_id": "91",
+        "doc_id": "89",
+        "score": 107.236115
+    },
+    {
+        "query_id": "91",
+        "doc_id": "487",
+        "score": 103.78581
+    },
+    {
+        "query_id": "91",
+        "doc_id": "665",
+        "score": 101.8471
+    },
+    {
+        "query_id": "91",
+        "doc_id": "1274",
+        "score": 101.45975
+    },
+    {
+        "query_id": "91",
+        "doc_id": "1054",
+        "score": 101.28456
+    },
+    {
+        "query_id": "91",
+        "doc_id": "788",
+        "score": 98.70046
+    },
+    {
+        "query_id": "91",
+        "doc_id": "1072",
+        "score": 97.34455
+    },
+    {
+        "query_id": "91",
+        "doc_id": "93",
+        "score": 97.31135
+    },
+    {
+        "query_id": "92",
+        "doc_id": "520",
+        "score": 59.72157
+    },
+    {
+        "query_id": "92",
+        "doc_id": "813",
+        "score": 46.01509
+    },
+    {
+        "query_id": "92",
+        "doc_id": "726",
+        "score": 44.7021
+    },
+    {
+        "query_id": "92",
+        "doc_id": "507",
+        "score": 34.90173
+    },
+    {
+        "query_id": "92",
+        "doc_id": "371",
+        "score": 33.94672
+    },
+    {
+        "query_id": "92",
+        "doc_id": "145",
+        "score": 33.390213
+    },
+    {
+        "query_id": "92",
+        "doc_id": "380",
+        "score": 32.587284
+    },
+    {
+        "query_id": "92",
+        "doc_id": "765",
+        "score": 30.752234
+    },
+    {
+        "query_id": "92",
+        "doc_id": "1197",
+        "score": 30.60735
+    },
+    {
+        "query_id": "92",
+        "doc_id": "1415",
+        "score": 29.978804
+    },
+    {
+        "query_id": "93",
+        "doc_id": "520",
+        "score": 100.917404
+    },
+    {
+        "query_id": "93",
+        "doc_id": "608",
+        "score": 99.93906
+    },
+    {
+        "query_id": "93",
+        "doc_id": "483",
+        "score": 97.62318
+    },
+    {
+        "query_id": "93",
+        "doc_id": "813",
+        "score": 94.790436
+    },
+    {
+        "query_id": "93",
+        "doc_id": "1124",
+        "score": 94.27494
+    },
+    {
+        "query_id": "93",
+        "doc_id": "894",
+        "score": 92.91187
+    },
+    {
+        "query_id": "93",
+        "doc_id": "448",
+        "score": 91.13106
+    },
+    {
+        "query_id": "93",
+        "doc_id": "71",
+        "score": 82.763794
+    },
+    {
+        "query_id": "93",
+        "doc_id": "507",
+        "score": 81.51028
+    },
+    {
+        "query_id": "93",
+        "doc_id": "726",
+        "score": 80.56378
+    },
+    {
+        "query_id": "94",
+        "doc_id": "1078",
+        "score": 47.19929
+    },
+    {
+        "query_id": "94",
+        "doc_id": "461",
+        "score": 46.98949
+    },
+    {
+        "query_id": "94",
+        "doc_id": "706",
+        "score": 46.76471
+    },
+    {
+        "query_id": "94",
+        "doc_id": "490",
+        "score": 46.24806
+    },
+    {
+        "query_id": "94",
+        "doc_id": "376",
+        "score": 46.03632
+    },
+    {
+        "query_id": "94",
+        "doc_id": "528",
+        "score": 45.502884
+    },
+    {
+        "query_id": "94",
+        "doc_id": "512",
+        "score": 45.36246
+    },
+    {
+        "query_id": "94",
+        "doc_id": "129",
+        "score": 44.731968
+    },
+    {
+        "query_id": "94",
+        "doc_id": "309",
+        "score": 44.36339
+    },
+    {
+        "query_id": "94",
+        "doc_id": "644",
+        "score": 43.640503
+    },
+    {
+        "query_id": "95",
+        "doc_id": "54",
+        "score": 79.43545
+    },
+    {
+        "query_id": "95",
+        "doc_id": "319",
+        "score": 76.41661
+    },
+    {
+        "query_id": "95",
+        "doc_id": "739",
+        "score": 71.30943
+    },
+    {
+        "query_id": "95",
+        "doc_id": "810",
+        "score": 69.93227
+    },
+    {
+        "query_id": "95",
+        "doc_id": "1415",
+        "score": 69.41769
+    },
+    {
+        "query_id": "95",
+        "doc_id": "446",
+        "score": 66.74627
+    },
+    {
+        "query_id": "95",
+        "doc_id": "531",
+        "score": 65.91576
+    },
+    {
+        "query_id": "95",
+        "doc_id": "838",
+        "score": 65.609924
+    },
+    {
+        "query_id": "95",
+        "doc_id": "659",
+        "score": 59.679237
+    },
+    {
+        "query_id": "95",
+        "doc_id": "512",
+        "score": 59.41574
+    },
+    {
+        "query_id": "96",
+        "doc_id": "523",
+        "score": 53.73915
+    },
+    {
+        "query_id": "96",
+        "doc_id": "460",
+        "score": 46.434788
+    },
+    {
+        "query_id": "96",
+        "doc_id": "575",
+        "score": 46.075253
+    },
+    {
+        "query_id": "96",
+        "doc_id": "519",
+        "score": 41.9031
+    },
+    {
+        "query_id": "96",
+        "doc_id": "644",
+        "score": 41.536205
+    },
+    {
+        "query_id": "96",
+        "doc_id": "1054",
+        "score": 40.85774
+    },
+    {
+        "query_id": "96",
+        "doc_id": "319",
+        "score": 40.195076
+    },
+    {
+        "query_id": "96",
+        "doc_id": "825",
+        "score": 40.133842
+    },
+    {
+        "query_id": "96",
+        "doc_id": "486",
+        "score": 40.11635
+    },
+    {
+        "query_id": "96",
+        "doc_id": "233",
+        "score": 39.681664
+    },
+    {
+        "query_id": "97",
+        "doc_id": "1415",
+        "score": 92.92422
+    },
+    {
+        "query_id": "97",
+        "doc_id": "448",
+        "score": 90.256
+    },
+    {
+        "query_id": "97",
+        "doc_id": "531",
+        "score": 85.9972
+    },
+    {
+        "query_id": "97",
+        "doc_id": "77",
+        "score": 85.58444
+    },
+    {
+        "query_id": "97",
+        "doc_id": "446",
+        "score": 82.91582
+    },
+    {
+        "query_id": "97",
+        "doc_id": "606",
+        "score": 81.08513
+    },
+    {
+        "query_id": "97",
+        "doc_id": "523",
+        "score": 80.376015
+    },
+    {
+        "query_id": "97",
+        "doc_id": "820",
+        "score": 77.87918
+    },
+    {
+        "query_id": "97",
+        "doc_id": "486",
+        "score": 74.964325
+    },
+    {
+        "query_id": "97",
+        "doc_id": "659",
+        "score": 74.39472
+    },
+    {
+        "query_id": "98",
+        "doc_id": "594",
+        "score": 106.46235
+    },
+    {
+        "query_id": "98",
+        "doc_id": "606",
+        "score": 101.54146
+    },
+    {
+        "query_id": "98",
+        "doc_id": "451",
+        "score": 99.5693
+    },
+    {
+        "query_id": "98",
+        "doc_id": "648",
+        "score": 93.10997
+    },
+    {
+        "query_id": "98",
+        "doc_id": "626",
+        "score": 91.10558
+    },
+    {
+        "query_id": "98",
+        "doc_id": "546",
+        "score": 89.54381
+    },
+    {
+        "query_id": "98",
+        "doc_id": "124",
+        "score": 82.62741
+    },
+    {
+        "query_id": "98",
+        "doc_id": "728",
+        "score": 82.15723
+    },
+    {
+        "query_id": "98",
+        "doc_id": "1367",
+        "score": 78.5748
+    },
+    {
+        "query_id": "98",
+        "doc_id": "1368",
+        "score": 74.879036
+    },
+    {
+        "query_id": "99",
+        "doc_id": "648",
+        "score": 77.557335
+    },
+    {
+        "query_id": "99",
+        "doc_id": "626",
+        "score": 76.793884
+    },
+    {
+        "query_id": "99",
+        "doc_id": "523",
+        "score": 76.34698
+    },
+    {
+        "query_id": "99",
+        "doc_id": "594",
+        "score": 75.87083
+    },
+    {
+        "query_id": "99",
+        "doc_id": "579",
+        "score": 75.65864
+    },
+    {
+        "query_id": "99",
+        "doc_id": "546",
+        "score": 75.26313
+    },
+    {
+        "query_id": "99",
+        "doc_id": "1368",
+        "score": 68.7799
+    },
+    {
+        "query_id": "99",
+        "doc_id": "728",
+        "score": 68.2151
+    },
+    {
+        "query_id": "99",
+        "doc_id": "1120",
+        "score": 66.32068
+    },
+    {
+        "query_id": "99",
+        "doc_id": "1054",
+        "score": 65.323425
+    },
+    {
+        "query_id": "100",
+        "doc_id": "375",
+        "score": 55.50986
+    },
+    {
+        "query_id": "100",
+        "doc_id": "376",
+        "score": 54.539135
+    },
+    {
+        "query_id": "100",
+        "doc_id": "916",
+        "score": 41.755806
+    },
+    {
+        "query_id": "100",
+        "doc_id": "131",
+        "score": 41.33125
+    },
+    {
+        "query_id": "100",
+        "doc_id": "136",
+        "score": 40.117218
+    },
+    {
+        "query_id": "100",
+        "doc_id": "1175",
+        "score": 38.716476
+    },
+    {
+        "query_id": "100",
+        "doc_id": "644",
+        "score": 38.61312
+    },
+    {
+        "query_id": "100",
+        "doc_id": "591",
+        "score": 38.506454
+    },
+    {
+        "query_id": "100",
+        "doc_id": "459",
+        "score": 38.485134
+    },
+    {
+        "query_id": "100",
+        "doc_id": "883",
+        "score": 38.231796
+    },
+    {
+        "query_id": "101",
+        "doc_id": "704",
+        "score": 61.555428
+    },
+    {
+        "query_id": "101",
+        "doc_id": "180",
+        "score": 60.385365
+    },
+    {
+        "query_id": "101",
+        "doc_id": "375",
+        "score": 60.134117
+    },
+    {
+        "query_id": "101",
+        "doc_id": "1089",
+        "score": 59.19221
+    },
+    {
+        "query_id": "101",
+        "doc_id": "608",
+        "score": 58.62291
+    },
+    {
+        "query_id": "101",
+        "doc_id": "309",
+        "score": 58.241512
+    },
+    {
+        "query_id": "101",
+        "doc_id": "363",
+        "score": 57.55124
+    },
+    {
+        "query_id": "101",
+        "doc_id": "461",
+        "score": 56.747673
+    },
+    {
+        "query_id": "101",
+        "doc_id": "175",
+        "score": 56.54714
+    },
+    {
+        "query_id": "101",
+        "doc_id": "805",
+        "score": 56.34501
+    },
+    {
+        "query_id": "102",
+        "doc_id": "824",
+        "score": 144.0424
+    },
+    {
+        "query_id": "102",
+        "doc_id": "812",
+        "score": 141.9203
+    },
+    {
+        "query_id": "102",
+        "doc_id": "659",
+        "score": 133.86426
+    },
+    {
+        "query_id": "102",
+        "doc_id": "894",
+        "score": 127.38452
+    },
+    {
+        "query_id": "102",
+        "doc_id": "566",
+        "score": 112.237686
+    },
+    {
+        "query_id": "102",
+        "doc_id": "820",
+        "score": 107.71589
+    },
+    {
+        "query_id": "102",
+        "doc_id": "329",
+        "score": 107.158394
+    },
+    {
+        "query_id": "102",
+        "doc_id": "489",
+        "score": 106.06271
+    },
+    {
+        "query_id": "102",
+        "doc_id": "446",
+        "score": 105.46176
+    },
+    {
+        "query_id": "102",
+        "doc_id": "773",
+        "score": 105.11814
+    },
+    {
+        "query_id": "103",
+        "doc_id": "512",
+        "score": 34.52547
+    },
+    {
+        "query_id": "103",
+        "doc_id": "562",
+        "score": 31.233145
+    },
+    {
+        "query_id": "103",
+        "doc_id": "993",
+        "score": 31.038368
+    },
+    {
+        "query_id": "103",
+        "doc_id": "659",
+        "score": 30.978191
+    },
+    {
+        "query_id": "103",
+        "doc_id": "797",
+        "score": 30.543766
+    },
+    {
+        "query_id": "103",
+        "doc_id": "637",
+        "score": 30.102432
+    },
+    {
+        "query_id": "103",
+        "doc_id": "754",
+        "score": 29.401295
+    },
+    {
+        "query_id": "103",
+        "doc_id": "606",
+        "score": 29.113035
+    },
+    {
+        "query_id": "103",
+        "doc_id": "44",
+        "score": 28.918476
+    },
+    {
+        "query_id": "103",
+        "doc_id": "49",
+        "score": 28.879185
+    },
+    {
+        "query_id": "104",
+        "doc_id": "894",
+        "score": 82.40691
+    },
+    {
+        "query_id": "104",
+        "doc_id": "603",
+        "score": 72.019966
+    },
+    {
+        "query_id": "104",
+        "doc_id": "1230",
+        "score": 66.52561
+    },
+    {
+        "query_id": "104",
+        "doc_id": "86",
+        "score": 65.88465
+    },
+    {
+        "query_id": "104",
+        "doc_id": "390",
+        "score": 65.7065
+    },
+    {
+        "query_id": "104",
+        "doc_id": "486",
+        "score": 64.80744
+    },
+    {
+        "query_id": "104",
+        "doc_id": "566",
+        "score": 64.4652
+    },
+    {
+        "query_id": "104",
+        "doc_id": "448",
+        "score": 62.267982
+    },
+    {
+        "query_id": "104",
+        "doc_id": "562",
+        "score": 61.575726
+    },
+    {
+        "query_id": "104",
+        "doc_id": "479",
+        "score": 60.03502
+    },
+    {
+        "query_id": "105",
+        "doc_id": "486",
+        "score": 71.12546
+    },
+    {
+        "query_id": "105",
+        "doc_id": "81",
+        "score": 63.462288
+    },
+    {
+        "query_id": "105",
+        "doc_id": "894",
+        "score": 61.28459
+    },
+    {
+        "query_id": "105",
+        "doc_id": "523",
+        "score": 58.738277
+    },
+    {
+        "query_id": "105",
+        "doc_id": "82",
+        "score": 56.187798
+    },
+    {
+        "query_id": "105",
+        "doc_id": "472",
+        "score": 55.15497
+    },
+    {
+        "query_id": "105",
+        "doc_id": "566",
+        "score": 55.04501
+    },
+    {
+        "query_id": "105",
+        "doc_id": "1419",
+        "score": 53.107826
+    },
+    {
+        "query_id": "105",
+        "doc_id": "446",
+        "score": 51.411568
+    },
+    {
+        "query_id": "105",
+        "doc_id": "52",
+        "score": 50.777897
+    },
+    {
+        "query_id": "106",
+        "doc_id": "523",
+        "score": 137.33633
+    },
+    {
+        "query_id": "106",
+        "doc_id": "820",
+        "score": 116.5623
+    },
+    {
+        "query_id": "106",
+        "doc_id": "636",
+        "score": 114.4617
+    },
+    {
+        "query_id": "106",
+        "doc_id": "813",
+        "score": 113.14473
+    },
+    {
+        "query_id": "106",
+        "doc_id": "702",
+        "score": 109.93094
+    },
+    {
+        "query_id": "106",
+        "doc_id": "1124",
+        "score": 108.71525
+    },
+    {
+        "query_id": "106",
+        "doc_id": "807",
+        "score": 105.26914
+    },
+    {
+        "query_id": "106",
+        "doc_id": "79",
+        "score": 104.11365
+    },
+    {
+        "query_id": "106",
+        "doc_id": "1054",
+        "score": 101.82479
+    },
+    {
+        "query_id": "106",
+        "doc_id": "514",
+        "score": 100.50683
+    },
+    {
+        "query_id": "107",
+        "doc_id": "86",
+        "score": 101.771706
+    },
+    {
+        "query_id": "107",
+        "doc_id": "448",
+        "score": 88.454285
+    },
+    {
+        "query_id": "107",
+        "doc_id": "1124",
+        "score": 85.68612
+    },
+    {
+        "query_id": "107",
+        "doc_id": "79",
+        "score": 85.308395
+    },
+    {
+        "query_id": "107",
+        "doc_id": "49",
+        "score": 84.9394
+    },
+    {
+        "query_id": "107",
+        "doc_id": "486",
+        "score": 82.88098
+    },
+    {
+        "query_id": "107",
+        "doc_id": "1118",
+        "score": 79.84361
+    },
+    {
+        "query_id": "107",
+        "doc_id": "608",
+        "score": 79.50011
+    },
+    {
+        "query_id": "107",
+        "doc_id": "596",
+        "score": 77.23553
+    },
+    {
+        "query_id": "107",
+        "doc_id": "523",
+        "score": 76.8737
+    },
+    {
+        "query_id": "108",
+        "doc_id": "648",
+        "score": 68.48445
+    },
+    {
+        "query_id": "108",
+        "doc_id": "1207",
+        "score": 66.93519
+    },
+    {
+        "query_id": "108",
+        "doc_id": "579",
+        "score": 62.651382
+    },
+    {
+        "query_id": "108",
+        "doc_id": "145",
+        "score": 59.304222
+    },
+    {
+        "query_id": "108",
+        "doc_id": "512",
+        "score": 58.91382
+    },
+    {
+        "query_id": "108",
+        "doc_id": "78",
+        "score": 58.661907
+    },
+    {
+        "query_id": "108",
+        "doc_id": "637",
+        "score": 55.340378
+    },
+    {
+        "query_id": "108",
+        "doc_id": "728",
+        "score": 54.35241
+    },
+    {
+        "query_id": "108",
+        "doc_id": "1396",
+        "score": 54.329456
+    },
+    {
+        "query_id": "108",
+        "doc_id": "496",
+        "score": 53.78567
+    },
+    {
+        "query_id": "109",
+        "doc_id": "89",
+        "score": 108.5799
+    },
+    {
+        "query_id": "109",
+        "doc_id": "52",
+        "score": 107.34248
+    },
+    {
+        "query_id": "109",
+        "doc_id": "105",
+        "score": 105.065506
+    },
+    {
+        "query_id": "109",
+        "doc_id": "635",
+        "score": 104.448006
+    },
+    {
+        "query_id": "109",
+        "doc_id": "1274",
+        "score": 99.4149
+    },
+    {
+        "query_id": "109",
+        "doc_id": "664",
+        "score": 96.57738
+    },
+    {
+        "query_id": "109",
+        "doc_id": "290",
+        "score": 93.34223
+    },
+    {
+        "query_id": "109",
+        "doc_id": "613",
+        "score": 92.06006
+    },
+    {
+        "query_id": "109",
+        "doc_id": "602",
+        "score": 92.00892
+    },
+    {
+        "query_id": "109",
+        "doc_id": "1345",
+        "score": 91.26947
+    },
+    {
+        "query_id": "110",
+        "doc_id": "964",
+        "score": 77.338356
+    },
+    {
+        "query_id": "110",
+        "doc_id": "406",
+        "score": 65.37593
+    },
+    {
+        "query_id": "110",
+        "doc_id": "400",
+        "score": 65.040276
+    },
+    {
+        "query_id": "110",
+        "doc_id": "151",
+        "score": 61.025547
+    },
+    {
+        "query_id": "110",
+        "doc_id": "497",
+        "score": 60.502625
+    },
+    {
+        "query_id": "110",
+        "doc_id": "304",
+        "score": 57.194077
+    },
+    {
+        "query_id": "110",
+        "doc_id": "1072",
+        "score": 57.097324
+    },
+    {
+        "query_id": "110",
+        "doc_id": "424",
+        "score": 57.012367
+    },
+    {
+        "query_id": "110",
+        "doc_id": "341",
+        "score": 56.737137
+    },
+    {
+        "query_id": "110",
+        "doc_id": "979",
+        "score": 55.969257
+    },
+    {
+        "query_id": "111",
+        "doc_id": "448",
+        "score": 84.03007
+    },
+    {
+        "query_id": "111",
+        "doc_id": "566",
+        "score": 78.782875
+    },
+    {
+        "query_id": "111",
+        "doc_id": "570",
+        "score": 78.61593
+    },
+    {
+        "query_id": "111",
+        "doc_id": "485",
+        "score": 75.28562
+    },
+    {
+        "query_id": "111",
+        "doc_id": "635",
+        "score": 74.4584
+    },
+    {
+        "query_id": "111",
+        "doc_id": "509",
+        "score": 67.03448
+    },
+    {
+        "query_id": "111",
+        "doc_id": "576",
+        "score": 66.87032
+    },
+    {
+        "query_id": "111",
+        "doc_id": "422",
+        "score": 64.086586
+    },
+    {
+        "query_id": "111",
+        "doc_id": "483",
+        "score": 61.1471
+    },
+    {
+        "query_id": "111",
+        "doc_id": "49",
+        "score": 59.92005
+    },
+    {
+        "query_id": "112",
+        "doc_id": "503",
+        "score": 46.724083
+    },
+    {
+        "query_id": "112",
+        "doc_id": "853",
+        "score": 45.42004
+    },
+    {
+        "query_id": "112",
+        "doc_id": "608",
+        "score": 43.852093
+    },
+    {
+        "query_id": "112",
+        "doc_id": "659",
+        "score": 43.479996
+    },
+    {
+        "query_id": "112",
+        "doc_id": "1132",
+        "score": 42.712982
+    },
+    {
+        "query_id": "112",
+        "doc_id": "1419",
+        "score": 42.112324
+    },
+    {
+        "query_id": "112",
+        "doc_id": "1124",
+        "score": 40.842644
+    },
+    {
+        "query_id": "112",
+        "doc_id": "483",
+        "score": 40.300713
+    },
+    {
+        "query_id": "112",
+        "doc_id": "576",
+        "score": 40.243664
+    },
+    {
+        "query_id": "112",
+        "doc_id": "596",
+        "score": 40.104717
+    }
+]

@@ -14,32 +14,28 @@
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 
+from datetime import datetime
 
 def main():
 
-    global es
-
-    from datetime import datetime
-
     inicio = datetime.now()
+    
+    global es
 
     # Configuración de la conexión con el servidor de Elasticsearch
     #
     ELASTIC_HOST = "https://localhost:9200"
     ELASTIC_CERT = "content/http_ca.crt"
-
-    # Password para el usuario 'elastic' generada por Elasticsearch
-    #
     ELASTIC_USER = "elastic"
     ELASTIC_PASSWORD = "dKPZ*UTCUQKn83cfR8vw"
 
-    # Creamos el cliente y lo conectamos a nuestro servidor
+    # Conectar al servidor
     #
     es = Elasticsearch(
         ELASTIC_HOST, ca_certs=ELASTIC_CERT, basic_auth=(ELASTIC_USER, ELASTIC_PASSWORD)
     )
 
-    # Creamos el índice
+    # Crear el índice
     #
     # Si no se crea explícitamente se crea al indexar el primer documento
     #
@@ -58,6 +54,10 @@ def main():
                     "analizador_personalizado": {
                         "tokenizer": "standard",
                         "filter": ["lowercase", "estematizacion_ingles"],
+                    },
+                    "analizador_autores": {
+                        "tokenizer": "standard",
+                        "filter": ["lowercase"]
                     }
                 },
             }
@@ -69,13 +69,22 @@ def main():
                     "analyzer": "analizador_personalizado",
                     "fielddata": "true",
                 },
+                "author": {
+                    "type": "text",
+                    "analyzer": "analizador_autores",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword"
+                        }
+                    }
+                },
             }
         },
     }
 
     es.indices.create(index="cisi", ignore=400, body=args)
 
-    # Ahora se indexan los documentos.
+    # Indexar los documentos
     # Leemos el fichero completo y lo procesamos
     #
     global contador
@@ -92,21 +101,17 @@ def main():
 
     print(fin - inicio)
 
-# Parsea los documentos
+# Parsear los documentos
 #
 def parse_documents(content):
     
-    entries = content.split('.I ')[1:]
+    entries = content.split('.I ')[1:] # Ignorar el primer documento vacío
 
     documents = []
     for entry in entries:
         doc = {
             "_index": "cisi",
             "_id": entry.splitlines()[0],
-            "title": "",
-            "author": "",
-            "text": "",
-            "created_at": ""
         }
 
         lines = entry.splitlines()
@@ -114,29 +119,32 @@ def parse_documents(content):
 
         for line in lines:
 
-            if line.startswith('.T'):
-                current_section = 'title'
+            if line.startswith('.T'): 
+                current_section = 'text'
+                continue
             elif line.startswith('.W'):
                 current_section = 'text'
+                continue
             elif line.startswith('.B'):
-                current_section = 'created_at'
+                current_section = 'text'
+                continue
             elif line.startswith('.A'):
                 current_section = 'author'
+                continue
             elif line.startswith('.X'):
                 current_section = None
-            
+                continue
+    
             if current_section:
                 doc[current_section] = doc.get(current_section, "") + line.strip() + " "
 
-        # Muestra los documentos por pantalla
+        # Mostrar los documentos por pantalla
         #
         # print(doc + "\n\n")
         
         documents.append(doc)
 
-    
     helpers.bulk(es, documents, chunk_size=len(documents))
-
 
 if __name__ == "__main__":
     main()
