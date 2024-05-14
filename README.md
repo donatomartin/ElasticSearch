@@ -5,6 +5,8 @@ Repo del proyecto para el curso de Repositorios de Información (RI) de la Unive
 
 [Enunciado del proyecto](https://www.campusvirtual.uniovi.es/pluginfile.php/530084/mod_resource/content/1/ElasticSearch%20Evaluaci%C3%B3n%20Extraordinaria%202024.pdf)
 
+[Ver documentación](doc.md)
+
 ## Parámetros del proyecto
 
 - Colección de pruebas: CISI
